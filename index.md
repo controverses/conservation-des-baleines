@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/controverses/conservation-des-baleines/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-[Aller vers la page 1](https://controverses.github.io/conservation-des-baleines/page1.html)
+[Aller vers la page 1](https://controverses.github.io/conservation-des-baleines/page1)
 
 ![baleine](http://whalesunderwater.com/wp-content/uploads/2015/11/whales-underwater-darrenjew-whale-02a.jpg)
 
