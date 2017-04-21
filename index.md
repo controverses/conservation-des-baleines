@@ -2,6 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/controverses/conservation-des-baleines/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+
+[Le Monde](www.lemonde.fr)
+![baleine à quelque chose]({{site.baseurl}}/http://whalesunderwater.com/wp-content/uploads/2015/11/whales-underwater-darrenjew-whale-02a.jpg)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y46MYZzqaYk" frameborder="0" allowfullscreen></iframe>
 
 
