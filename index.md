@@ -8,10 +8,12 @@ You can use the [editor on GitHub](https://github.com/controverses/conservation-
 
 ![baleine](http://whalesunderwater.com/wp-content/uploads/2015/11/whales-underwater-darrenjew-whale-02a.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y46MYZzqaYk" frameborder="0" allowfullscreen></iframe>
+<iframe width="620" height="315" src="https://www.youtube.com/embed/Y46MYZzqaYk" frameborder="0" allowfullscreen></iframe>
 
 
-
+- Il s'agit de comprendre la controverse 
+- Il s'agit d'évaluer les succès des prééminences des problématisations
+- Le markdown fonctionne bien 
 
 
 
