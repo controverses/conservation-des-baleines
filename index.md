@@ -1,9 +1,9 @@
-## LES BALEINES : entre chasses, préservation, conservation et extinction
+# LES BALEINES : entre chasses, préservation, conservation et extinction
 
 
-### Introduction
+## Introduction
 
-Aujourd’hui, il suffit de taper “baleines” dans la barre de recherche google pour voir fleurir les pétitions. Parmi celles-ci, une pétition circule actuellement sur la plateforme Avaaz intitulée “_Halte au plus grand massacre de baleines au monde!_” dénonçant une pratique pourtant millénaire : la chasse à la baleine. Jouant sur l’émotion de l’opinion publique, cette pétition - déjà signée par près de trois millions de “_citoyens du monde entier_”- dénonce une “_effroyable tradition annuelle_”. Ainsi, de nombreux acteurs sont en faveur de la conservation des baleines, c’est-à-dire la protection de chaque individu des différentes espèces. L’aspect extraordinaire des baleines, ancré dans l’imaginaire collectif, est en effet source de grandes mobilisations. La pétition décrit ainsi les baleines comme de “_magnifiques créatures qui forcent l’admiration. [...] (et) communiquent les unes avec les autres par des chants, et ressentent les mêmes émotions que nous_”
+   Aujourd’hui, il suffit de taper “baleines” dans la barre de recherche google pour voir fleurir les pétitions. Parmi celles-ci, une pétition circule actuellement sur la plateforme Avaaz intitulée “_Halte au plus grand massacre de baleines au monde!_” dénonçant une pratique pourtant millénaire : la chasse à la baleine. Jouant sur l’émotion de l’opinion publique, cette pétition - déjà signée par près de trois millions de “_citoyens du monde entier_”- dénonce une “_effroyable tradition annuelle_”. Ainsi, de nombreux acteurs sont en faveur de la conservation des baleines, c’est-à-dire la protection de chaque individu des différentes espèces. L’aspect extraordinaire des baleines, ancré dans l’imaginaire collectif, est en effet source de grandes mobilisations. La pétition décrit ainsi les baleines comme de “_magnifiques créatures qui forcent l’admiration. [...] (et) communiquent les unes avec les autres par des chants, et ressentent les mêmes émotions que nous_”
 
    Pourtant, de nombreux acteurs se sont montrés favorables à la chasse à la baleine au cours des dernières décennies et encore de nos jours. Pour ne donner que quelques exemples, il en va ainsi de grands groupes industriels qui retirent des profits de la vente de la chair de baleine, du premier ministre japonais Shinzo Abe, qui a grandi dans une culture accordant une importance toute particulière à la tradition de la chasse à la baleine, des inuits du Canada pratiquant une chasse de subsistance, mais aussi de scientifiques résolument convaincus que la chasse n’est pas incompatible avec des objectifs de préservation de l’espèce, consistant, contrairement à la conservation, à utiliser durablement les stocks de baleines soit poursuivre la chasse de manière soutenable et responsable.
 
@@ -13,18 +13,20 @@ Aujourd’hui, il suffit de taper “baleines” dans la barre de recherche goog
     
     
     
-    **Comment la controverse autour de la conservation de la baleine, née d’une urgence pointée par les scientifiques, s’est-elle cristallisée dans la question de la chasse et a finalement abouti à la mise en avant d’arguments éthiques de conservation?**
+   **Comment la controverse autour de la conservation de la baleine, née d’une urgence pointée par les scientifiques, s’est-elle cristallisée dans la question de la chasse et a finalement abouti à la mise en avant d’arguments éthiques de conservation?**
    
 VIDEO A METTRE
 
-### I. Du "club baleinier" à la mise en place d'un moratoire global
 
 
-# A. La mise au jour scientifique d'une problématique internationale
+## I. Du "club baleinier" à la mise en place d'un moratoire global
+
+
+### A. La mise au jour scientifique d'une problématique internationale
 
 
 
-Les efforts internationaux de contrôle commencent déjà dans les années 1920s, d’abord avec la Société des Nations, puis à travers de nombreux accords aboutissant à la création de la CBI en 1946. Elle promeut une conservation adaptée des populations baleinières et de leurs ressources ainsi que la réglementation de la chasse à la baleine.
+   Les efforts internationaux de contrôle commencent déjà dans les années 1920s, d’abord avec la Société des Nations, puis à travers de nombreux accords aboutissant à la création de la CBI en 1946. Elle promeut une conservation adaptée des populations baleinières et de leurs ressources ainsi que la réglementation de la chasse à la baleine.
 
     La Société des Nations crée déjà en 1924 un Comité de Droit International, dont fait partie l’avocat de droit public international argentin José León Suárez, qui, dans un rapport de 1925, déclare que l'industrie baleinière "_éteint rapidement_” la baleine et que "les richesses de la mer, en particulier les richesses immenses de la région antarctique, constituent un  patrimoine de l’humanité, et que {leur} Commission est tout indiquée pour proposer au Gouvernement un moyen d’action avant qu'il ne soit trop tard.” A partir de là émergent des échanges importants entre scientifiques qui vont utiliser la mise en scène de l’urgence autour de cette argument du déclin de la richesse maritime pour influencer les comportements politiques et obtenir davantage de financements. Par exemple, le stationnement de biologistes dans des stations d’observation et sur des navires-usines apporte des connaissances importantes sur l’histoire naturelle des baleines. Le Bureau des Statistiques Baleinières Internationales est mis en place en 1930 afin de suivre les captures. En 1984, le Bureau continue à exister en s’intégrant à la CBI au prix d’une diminution de son indépendance. A l’origine, l’intérêt de la mise en place d’une telle mesure pour les scientifiques est d’obtenir une meilleure compréhension de l’état des stocks et de leurs évolutions, dans l’optique de faire un premier pas dans pour la régulation de la chasse à la baleine. Ce bureau, stationné en Norvè en terme d’espèces, compile ces données pour publier chaque année les statistiques baleinières internationales sur les rapports sexuels, la longueur des fœtus, la production d'huile, le nombre d'usines flottantes ou de stations terrestre et le nombre de captures. Ces statistiques ont eu deux effets importants à la fois sur les méthodes de recherche et sur l’autonomie des institutions scientifiques.
     La création d’une institution scientifique séparée était la clé pour établir la cétologie comme discipline propre avec une autorité importante et indépendante dans le débat de la chasse à la baleine. L’objectif est alors la création d’une autorité ayant le monopole de la scientific truth [vérité scientifique] c’est-à-dire de ce qui est alors considéré comme un “_fait scientifique_” faisant un large consensus au sein de la communauté scientifique. Ce positionnement stratégique leur permet de porter une voix légitime car unifiée et d’influencer les débats plus efficacement.
