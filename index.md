@@ -1,4 +1,4 @@
-## LES BALEINES
+## LES BALEINES: entre chasses, préservation, conservation et extinction
 
 
 ### Introduction
