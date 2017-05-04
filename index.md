@@ -14,12 +14,11 @@
     
 <p style="text-align:center; color:red; font-weight:bolder">Comment la controverse autour de la conservation de la baleine, née d’une urgence pointée par les scientifiques, s’est-elle cristallisée dans la question de la chasse et a finalement abouti à la mise en avant d’arguments éthiques de préservation?</p>
    
-VIDEO A METTRE
 <p>&nbsp; </p> 
 <p>&nbsp; </p> 
 
 <balise id="ancre1"></balise>
-## I. Du "club baleinier" à la mise en place d'un moratoire global
+## I. Du "club baleinier" à la mise en place d'un global
 
 
 ### A. La mise au jour scientifique d'une problématique internationale
@@ -77,8 +76,6 @@ Démonstration : Si on a 150 000 baleines bleues, on en réduit le stock à 75  
 </table>
 
 <p>&nbsp; </p>
-<p>&nbsp; </p>
-
 
 ### B. Des organes internationaux au coeur des stratégies géopolitiques
 
@@ -94,7 +91,7 @@ Démonstration : Si on a 150 000 baleines bleues, on en réduit le stock à 75  
 
 <table border="1" cellspacing="1" cellpadding="1" width="50%" align="justify"><colgroup span="4" > </colgroup>
 <thead>
-Protection des baleines
+<a style="font-style:bold">Protection des baleines</a>
 <tr>
 <th>année</th>
 <th>baleine protégée</th>
@@ -133,7 +130,6 @@ Baleine francehe de l'Atlantique du Nord</td>
 </tbody>
 </table>
 
-<p>&nbsp; </p>
 <p>&nbsp; </p>
 
 <balise id="ancre2"></balise>
@@ -192,7 +188,7 @@ Cependant, lors de l’application du New Management Procedure à la fin des ann
 ![InfluenceNetwork1975-90](http://controverses.github.io/conservation-des-baleines/Photo/ImagesSTS/Influence_networks_1975-90.jpg "carte du réseau d'influence baleinier en 1975-90")
 
 <p>&nbsp; </p>
-
+<p>&nbsp; </p>
 
 ## II. L'introduction du moratoire : un repositionnement des acteurs 
 
@@ -371,6 +367,8 @@ C’est le cas de la province de Wakayama au Japon, dans la ville de Taiji, ou b
 <p align="justify">Deux développements peuvent alors être identifiés suite à l’initiative échouée du RMS:
 - la mythification de la baleine par les organisations environnementales et des nations s’opposants à la chasse
 - la réorientation des ONG sur des questions autres que la chasse</p>
+
+<p>&nbsp; </p>
 
 #### a. La mythification de la baleine
 
