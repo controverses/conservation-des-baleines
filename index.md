@@ -1,5 +1,10 @@
 # LES BALEINES : entre chasses, préservation, conservation et extinction
 
+<p>&nbsp; </p> 
+
+![ActeursCBI](http://controverses.github.io/conservation-des-baleines/Photo/ImagesSTS/ActeursCBI.jpeg/"Un meeting comme un autre à la Commission Baleinière Internationale")
+
+<p>&nbsp; </p> 
 
 ## Introduction
 <p align="justify"> Aujourd’hui, il suffit de taper "baleine” dans la barre de recherche google pour voir fleurir les pétitions. Parmi celles-ci, une pétition circule actuellement sur la plateforme Avaaz intitulée “Halte au plus grand massacre de baleines au monde!” dénonçant une pratique pourtant millénaire : la chasse à la baleine. Jouant sur l’émotion de l’opinion publique, cette pétition - déjà signée par près de trois millions de “citoyens du monde entier”- dénonce une “effroyable tradition annuelle”. Ainsi, de nombreux acteurs sont en faveur de la préservation des baleines, c’est-à-dire la protection de chaque individu des différentes espèces. L’aspect extraordinaire des baleines, ancré dans l’imaginaire collectif, est en effet source de grandes mobilisations. La pétition décrit ainsi les baleines comme de “magnifiques créatures qui forcent l’admiration. [...] (et) communiquent les unes avec les autres par des chants, et ressentent les mêmes émotions que nous".</p>
