@@ -83,7 +83,7 @@ Démonstration : Si on a 150 000 baleines bleues, on en réduit le stock à 75  
 ### B. Des organes internationaux au coeur des stratégies géopolitiques
 
 
-#### a. _La Convention internationale pour la réglementation de la chasse à la baleine (1931)_
+#### a. La Convention internationale pour la réglementation de la chasse à la baleine (1931)_
 
 
 Le premier accord réglementaire international est signé à Genève par 22 nations en 1931. Il s’agit de la Convention pour la réglementation de la chasse à la baleine, que deux nations chasseurs majeures, l'Allemagne et le Japon, ne signent cependant pas.
@@ -137,7 +137,7 @@ Baleine francehe de l'Atlantique du Nord</td>
 <p>&nbsp; </p>
 
 
-#### b. _La Convention internationale pour la réglementation de la chasse  à la baleine (1946) et la création de la Convention Baleinière Internationale (CBI)_
+#### b. La Convention internationale pour la réglementation de la chasse  à la baleine (1946) et la création de la Convention Baleinière Internationale (CBI)
 
 L’activité de l’industrie baleinière a été réduite durant de la seconde guerre mondiale. Cependant, vers la fin de la guerre, un certain nombre de pays commencent à se poser la question de l'avenir de la chasse à la baleine. En effet, au sortir de la Seconde Guerre Mondiale, lors de la Convention Internationale pour la Réglementation de la Chasse à la Baleine (CIRCB) en 1946 à Washington DC, la CBI est créée  sous l’impulsion des Etats-Unis  à l’instar des autres organisations internationales visant à favoriser des forums de discussion et de décisions limitant les conflits directs au profit de rapport de forces diplomatiques. Dans cette dynamique rooseveltienne, les Etats-Unis ont une place prééminente au sein des discussions et influent sur l’agenda de la commission. En l’occurrence la création de la CBI a pour objectif de favoriser la coordination de la reprise de la chasse réglementée de la baleine, notamment au profit du Japon qui fait face à une pénurie de denrée suite à la guerre. En effet le stock de baleines bleues inquiète la communauté scientifique, il est nécessaire de réglementer la chasse pour qu’elle de façon pacifique et relativement durable.
 
@@ -156,7 +156,7 @@ Dans le cadre d’une commission en présence des pays chasseurs, toutes les pr�
 
 <p>&nbsp; </p>
 
-#### c. _La Conférence des Nations Unies sur l'environnement (Stockholm - 1972) et la volonté d’un moratoire de 10 ans sur la chasse à la baleine_
+#### c. La Conférence des Nations Unies sur l'environnement (Stockholm - 1972) et la volonté d’un moratoire de 10 ans sur la chasse à la baleine
 
 Les années 1970 marquent un changement de paradigme scientifique assez important avec l’émergence de l’écologie comme science indépendante et de la problématique du développement durable. Pour la première fois se pose de manière explicite et assez consensuelle, la nécessité d’une évaluation des ressources de la planète à la suite d’une prise de conscience du caractère fini de ces dernières. Dans le contexte de la publication de Limits to Growth par les nombreux scientifiques du Club de Rome, se mettent en place les sommets de la Terre des Nations Unies dont la première à lieu à Stockholm en 1972 où se pose véritablement la question de la gestion de toutes les ressources. Ainsi, en juin 1972, pendant la Conférence des Nations Unies sur l’environnement (United Nations Conference on the Human Environment (UNCHE)), 110 pays adoptent une résolution visant un moratoire de 10 ans sur la chasse à la baleine de baleines. Les gouvernements se mettent alors d’accord “de renforcer la CBI, d’accroître les efforts de recherche internationaux et, en urgence, d’appeler à un accord international, sous les auspices de la CBI et, en impliquant tous les gouvernements concernés, d’appeler à un moratoire de 10 ans sur la chasse industrielle”. Cependant, les pays chasseurs répondent à ces volontés à la prochaine réunion de la CBI en 1972 en rejetant la résolution de l’UNCHE. Les États-Unis cherchent activement à faire adopter un moratoire et fixer des quotas de façon répétée en 1972 à Stockholm et 1973 à la CBI . Mais les Japon et l’Union Soviétique s’y opposent et empêche d’atteindre la majorité des 3/4. Finalement, le moratoire de 10 ans n’avait donc pas été soumis au vote lors de la réunion de 1974. Cependant, une proposition alternative a été présentée par la délégation Australienne pour la période de 1975-76. Cette alternative est devenue le point focal de la controverse sur l'avenir des baleines et de la CBI elle-même.
 
@@ -168,7 +168,7 @@ Au sein de la CBI, les opinions ont été fortement divisées sur la validité s
 
 <p>&nbsp; </p>
 
-#### d. _La Conférence internationale pour la réglementation de la chasse à la baleine (1975)_
+#### d. La Conférence internationale pour la réglementation de la chasse à la baleine (1975)
 
 En amont de la Conférence internationale de 1975, les groupes environnementaux gagnent en importance et commencent à se faire entendre au regard de la CBI. Les Amis de la Terre, l’une de ces organisations, fondée en 1969, publie Not Man Apart dans lequel elle critique l’amendement australien. Le propos de J. Clark, A. King et J. Burton est : “Sauver les baleines: Abolir la CBI.”. Le milieu des années 70 marque ainsi le rôle croissant des organisations environnementales qui se construisent en opposition à la CBI et prennent en main la protection des baleines.
 
@@ -198,7 +198,7 @@ Ces décisions reflètent ainsi l’émergence d’une conscience de la nécessi
 
 ## II. L'introduction du moratoire : un repositionnement des acteurs 
 
-### L'introduction du moratoire conditionné
+### A. L'introduction du moratoire conditionné
 
 En 1982, la CBI vote l’introduction d’un moratoire sur la pêche commerciale à la baleine. La majorité requise des 75% pour passer ce type de décision importante est réunie grâce à un travail de longue haleine des ONGs protectrices et des Etats-Unis. Si elle estime que les stocks sont potentiellement menacés car le conseil scientifique de la CBI ne dispose des connaissances nécessaires sur les stocks de baleines, elle peut choisir de stopper toutes formes de pêche commerciale. Cette mesure à visée préventive se met temporairement en place afin de pouvoir proposer des quotas performants sans risque pour la préservation des espèces et des populations de baleine.
 
@@ -363,7 +363,7 @@ Finalement, la chair de baleine est donc de moins en moins consommée dans les p
 
 <p>&nbsp; </p>
 
-### Un changement de cadrage stratégique pour relancer la controverse
+### III. Un changement de cadrage stratégique pour relancer la controverse
 
 Si le RMS a trouvé un consensus scientifique pour légitimer la chasse à la baleine dans la vision d’une chasse commerciale soutenable, il n’a pas trouvé de consensus au sein de la CBI, ni dans la société civile.
 
