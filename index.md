@@ -35,9 +35,8 @@
 
 <table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
 <thead>
-ZOOM
 <tr>
-<th>Les méthodes de chasse</th>
+<th>ZOOM : Les méthodes de chasse</th>
 </tr>
 </thead>
 <tbody>
@@ -46,30 +45,8 @@ ZOOM
 </tbody>
 </table>
 
-
-
-<p>&nbsp; </p> 
-
-<p>&nbsp; </p> 
-
-<p>&nbsp; </p> 
-
-
-<table border="1" cellspacing="1" cellpadding="1" width="50%" align="center"><colgroup span="4" > </colgroup>
-<thead>
-<span style="color: #3333cc; font-text:bold" size="20pt" align="center">Zoom sur les méthodes de chasse</span>
-<tr>
-<th>
-<span style="color: #3333cc; font-text:bold" size="20pt" align="center">Zoom sur les méthodes de chasse</span>
-</th>
-</thead>
-<tbody>
-<p align="justify">L’origine, les types de baleines chassées étaient les baleines grasses comme la baleine à frange car elles se déplacent lentement et leurs cadavres flottent à la surface, mais les rorquals par exemple n’étaient pas prédatés par les Hommes car ils étaient trop rapides pour les pêcheurs et coulaient dès qu’ils mourraient. Ils fallaient un nombre considérable de pêcheurs associés pour s’attaquer à une baleine, ceux-ci s’alliaient parfois le temps de la chasse puis se répartissaient le butin. La chasse était réalisée avec des harpons et des gros filets de pêche. Un moyen de se répartir les fruits de la chasse de manière équitable consistait à compter le nombre de harpons appartenants à notre tribu ou à notre compagnie retrouvés dans le corps de l’animal mort. La chasse moderne est une évolution d’abord norvégienne et finlandaise du premier type de chasse due à l’épuisement des stocks des baleines « chassables ». Il devient alors nécessaire de trouver le moyen de chasser les rorquals et autres espèces plus rapide ou dont les cadavres ne flottent pas pour poursuivre l’activité baleinière. Avec les évolutions techniques du XIXème siècle, c’est la naissance de la méthode toujours perfectionnée aujourd’hui du norvégien Svend Foyn (1809-1894). Des bateaux sont spécialement conçus pour la chasse à la baleine et aux gros cétacés, ils sont alimentés par la vapeur d’abord (ensuite ce sera le diesel) et comportent un canon à harpon fixé à la proue du bateau. Les harpons sont couplés à une grenade qui explose à l’intérieur de l’animal et à une corde permettant de ramener le corps de l’animal avant que celui-ci ne coule.</p>
-</tbody>
-</table>
 <p>&nbsp; </p> 
 <p>&nbsp; </p> 
-
 
 
 <p align="justify">En 1930, le Conseil de la Société des Nations pour l’exploration des mers donne au bureau officiellement le rôle central pour la collecte de toute données et encourage alors les pays à lui soumettre leurs informations de chasse</p>
@@ -86,20 +63,21 @@ ZOOM
 
 <p>&nbsp; </p>
 
-<span style="color: #fb4141">Zoom sur l'économie de la baleine</span>
 <table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
 <thead>
 <tr>
-<th>
-<p align="justify">Dans le domaine de la bioéconomie, Colin Clark s’essaye à apporter la preuve que l’économie du libre marché prédestine les baleines à disparaître.
-Démonstration : Si on a 150 000 baleines bleues, on en réduit le stock à 75  000, on obtiendrait 10 000$ par capture donc une réglementation soutenable serait de 2000 prises par an soit 20 millions de dollar par an. Maintenant proposons de tout pêcher d’un coup :  75 000 (en négligeant l’élasticité de la demande et en occultant l’irréalisme d’une telle chasse), le gain est de 750 millions. En réinvestissant les bénéfices avec seulement un rendement de 5%, les intérêts sont de 37.5 millions par an soit plus que 20 millions par an pour une chasse soutenable. Par conséquent, l’extermination de la baleine bleue apparaît constituer une politique économique considérablement plus rentable qu’une politique de préservation</p>
-</th>
+<th>ZOOM : l'économie de la baleine</th>
 </tr>
 </thead>
-<tbody></tbody>
+<tbody>
+<tr>
+<td><p align="justify">Dans le domaine de la bioéconomie, Colin Clark s’essaye à apporter la preuve que l’économie du libre marché prédestine les baleines à disparaître.
+Démonstration : Si on a 150 000 baleines bleues, on en réduit le stock à 75  000, on obtiendrait 10 000$ par capture donc une réglementation soutenable serait de 2000 prises par an soit 20 millions de dollar par an. Maintenant proposons de tout pêcher d’un coup :  75 000 (en négligeant l’élasticité de la demande et en occultant l’irréalisme d’une telle chasse), le gain est de 750 millions. En réinvestissant les bénéfices avec seulement un rendement de 5%, les intérêts sont de 37.5 millions par an soit plus que 20 millions par an pour une chasse soutenable. Par conséquent, l’extermination de la baleine bleue apparaît constituer une politique économique considérablement plus rentable qu’une politique de préservation.</p></td></tr>
+</tbody>
 </table>
 
-<p>&nbsp; </p>
+<p>&nbsp; </p> 
+
 
 ### B. Des organes internationaux au coeur des stratégies géopolitiques
 
@@ -235,17 +213,19 @@ On observe également que les Japonais firent de même (encore aujourd’hui) ma
 
 <p>&nbsp; </p>
 
-<span style="color: #fb4141">ZOOM sur la chasse de subsistance</span>
+
+
 <table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
 <thead>
 <tr>
-<th>
-<p align="justify">Certains peuples du Canada, de l’Alaska, de la Russie, du Danemark ou de Saint Vincent et des Grenadines notamment ont développé une tradition de pêche de subsistance des baleines Bowhead, Chuotka, Fin et Minke et Humpback respectivement. Bien avant que la CBI ne soit envisagée et la pêche de subsistance autorisée, ces peuples ont transmis ces savoirs faires d’exploitation et de sécurité durant la chasse, qui sont des savoirs de survie, de générations en générations depuis les temps préhistoriques.  
-La chasse est une entreprise nécessaire mais extrêmement périlleuse qui, durant toute sa durée, est empreinte de mysticité et de sacrée. De nombreux rituels cérémoniaux célébrant la fécondité des femmes, des baleines et le succès des hommes à la chasse ont lieu avant, pendant et dans les jours suivants la chasse. Ainsi, dans les tribus Inuits Sivuqaq « le cycle des rituels insulaires débutait par des cérémonies d’offrandes à la mer, aux esprits des morts, à l’angyaq (baleinière en yupik sibérien) et à la cale. Chaque clan organise les rituels séparément […] au moment de la nouvelle lune. Par une première cérémonie d’offrandes le chasseur essaye de garantir la saison de chasse du printemps   ». Afin que les chasseurs soient purs, ils ne touchent pas leurs femmes les jours précédents la chasse et celles-ci ont des rôles cruciaux lors des rituels, où elles enduisent les coques des bateaux de certains onguents et procèdent à des cérémonies symboliques.</p>
-</th>
+<th>ZOOM : la chasse de subsistance</th>
 </tr>
 </thead>
-<tbody></tbody>
+<tbody>
+<tr>
+<td><p align="justify">Certains peuples du Canada, de l’Alaska, de la Russie, du Danemark ou de Saint Vincent et des Grenadines notamment ont développé une tradition de pêche de subsistance des baleines Bowhead, Chuotka, Fin et Minke et Humpback respectivement. Bien avant que la CBI ne soit envisagée et la pêche de subsistance autorisée, ces peuples ont transmis ces savoirs faires d’exploitation et de sécurité durant la chasse, qui sont des savoirs de survie, de générations en générations depuis les temps préhistoriques.  
+La chasse est une entreprise nécessaire mais extrêmement périlleuse qui, durant toute sa durée, est empreinte de mysticité et de sacrée. De nombreux rituels cérémoniaux célébrant la fécondité des femmes, des baleines et le succès des hommes à la chasse ont lieu avant, pendant et dans les jours suivants la chasse. Ainsi, dans les tribus Inuits Sivuqaq « le cycle des rituels insulaires débutait par des cérémonies d’offrandes à la mer, aux esprits des morts, à l’angyaq (baleinière en yupik sibérien) et à la cale. Chaque clan organise les rituels séparément […] au moment de la nouvelle lune. Par une première cérémonie d’offrandes le chasseur essaye de garantir la saison de chasse du printemps   ». Afin que les chasseurs soient purs, ils ne touchent pas leurs femmes les jours précédents la chasse et celles-ci ont des rôles cruciaux lors des rituels, où elles enduisent les coques des bateaux de certains onguents et procèdent à des cérémonies symboliques.</p></td></tr>
+</tbody>
 </table>
 
 <p>&nbsp; </p>
@@ -327,18 +307,19 @@ Il est difficile d’expliquer pourquoi le Japon continue la chasse face à la f
 
 <p>&nbsp; </p>
 
-<span style="color: #fb4141">ZOOM sur l'argumentaire japonais : les traditions des chasse </span>
+
 <table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
 <thead>
 <tr>
-<th>
-<p align="justify">Les japonais se décrivent comme ayant une tradition de la chasse à la baleine surtout liée aux besoins d’après guerres du XXème siècle en terme de nourriture, et déjà consommée par les samouraïs auparavant. Pour eux, il s’agit davantage d’une chasse traditionnelle que de subsistance.</p>
-
-<p align="justify">En outre, les japonais critiquent l’hypocrisie des pays européens, tels que la France ou l’Angleterre, qui prétendent avoir toujours considéré la baleine comme un animal sensible qu’il s’agit de respecter. En effet, les documents historiques montrent notamment que la viande de baleine était très appréciée en France au Moyen-âge. La baleine constituait une ressource de choix notamment pour les abbayes et les moines s’associaient aux pêcheurs pour abattre au péril de leur vie un animal d’une telle taille et donc d’une telle valeur. La langue considérait comme le meilleur morceau était tacitement réservé à l’Eglise, l’huile de baleine était une source de combustible formidable pour l’éclairage, les côtes des baleines servaient pour les clôtures des champs dans la région de Biarritz et les vertèbres permettaient à elles seules de confectionner des sièges. Les baleines se vendaient sur les marchés comme celui de Calais ou d’Arras. A Nieuport, en 1163, il existait un tarif de droit payable par les étrangers qui achètent de la baleine. La viande de baleine faisait partie intégrante de la cuisine médiévale et en 1947 on en déguste encore à Londres comme un met de choix.</p>
-</th>
+<th>ZOOM : l'argumentaire japonais ou les traditions des chasse </th>
 </tr>
 </thead>
-<tbody></tbody>
+<tbody>
+<tr>
+<td><p align="justify">Les japonais se décrivent comme ayant une tradition de la chasse à la baleine surtout liée aux besoins d’après guerres du XXème siècle en terme de nourriture, et déjà consommée par les samouraïs auparavant. Pour eux, il s’agit davantage d’une chasse traditionnelle que de subsistance.</p>
+
+<p align="justify">En outre, les japonais critiquent l’hypocrisie des pays européens, tels que la France ou l’Angleterre, qui prétendent avoir toujours considéré la baleine comme un animal sensible qu’il s’agit de respecter. En effet, les documents historiques montrent notamment que la viande de baleine était très appréciée en France au Moyen-âge. La baleine constituait une ressource de choix notamment pour les abbayes et les moines s’associaient aux pêcheurs pour abattre au péril de leur vie un animal d’une telle taille et donc d’une telle valeur. La langue considérait comme le meilleur morceau était tacitement réservé à l’Eglise, l’huile de baleine était une source de combustible formidable pour l’éclairage, les côtes des baleines servaient pour les clôtures des champs dans la région de Biarritz et les vertèbres permettaient à elles seules de confectionner des sièges. Les baleines se vendaient sur les marchés comme celui de Calais ou d’Arras. A Nieuport, en 1163, il existait un tarif de droit payable par les étrangers qui achètent de la baleine. La viande de baleine faisait partie intégrante de la cuisine médiévale et en 1947 on en déguste encore à Londres comme un met de choix.</p></td></tr>
+</tbody>
 </table>
 
 <p>&nbsp; </p>
