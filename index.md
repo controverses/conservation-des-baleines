@@ -35,7 +35,7 @@ VIDEO A METTRE
 <p>&nbsp; </p>
 
 <span style="color: #fb4141">Zoom sur les méthodes de chasse</span>
-<table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
+<table border="1" cellspacing="1" cellpadding="1" width="50%" align="center"><colgroup span="4" > </colgroup>
 <thead>
 <tr>
 <th>
@@ -64,7 +64,6 @@ A la fin des années 50, les biologistes halieutiques viennent compléter le sav
 <p>&nbsp; </p>
 
 <span style="color: #fb4141">Zoom sur l'économie de la baleine</span>
-</span>
 <table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
 <thead>
 <tr>
@@ -84,7 +83,7 @@ Démonstration : Si on a 150 000 baleines bleues, on en réduit le stock à 75  
 ### B. Des organes internationaux au coeur des stratégies géopolitiques
 
 
-#### a. La Convention internationale pour la réglementation de la chasse à la baleine (1931)
+#### a. _La Convention internationale pour la réglementation de la chasse à la baleine (1931)_
 
 
 Le premier accord réglementaire international est signé à Genève par 22 nations en 1931. Il s’agit de la Convention pour la réglementation de la chasse à la baleine, que deux nations chasseurs majeures, l'Allemagne et le Japon, ne signent cependant pas.
@@ -93,7 +92,7 @@ Le premier accord réglementaire international est signé à Genève par 22 nati
 Bien que la convention pour la réglementation de la chasse baleinière ne produise pas de véritable mécanisme de contrôle pour la chasse, elle reconnaît dès ses débuts la chasse aborigène de subsistance. Cependant, au cours des années 1930, les premières baleines obtiennent le statut d’espèce protégée dont la baleine boréale en 1931, puis la baleine franche australe, la baleine franche de l’Atlantique du Nord en 1935 et la baleine grise en 1937.
 
 
-<table border="1" cellspacing="1" cellpadding="1" width="70%" align="center"><colgroup span="4" > </colgroup>
+<table border="1" cellspacing="1" cellpadding="1" width="50%" align="justify"><colgroup span="4" > </colgroup>
 <thead>
 Protection des baleines
 <tr>
@@ -134,9 +133,34 @@ Baleine francehe de l'Atlantique du Nord</td>
 </tbody>
 </table>
 
+<p>&nbsp; </p>
+<p>&nbsp; </p>
 
 
+#### b. _La Convention internationale pour la réglementation de la chasse  à la baleine (1946) et la création de la Convention Baleinière Internationale (CBI)_
 
+L’activité de l’industrie baleinière a été réduite durant de la seconde guerre mondiale. Cependant, vers la fin de la guerre, un certain nombre de pays commencent à se poser la question de l'avenir de la chasse à la baleine. En effet, au sortir de la Seconde Guerre Mondiale, lors de la Convention Internationale pour la Réglementation de la Chasse à la Baleine (CIRCB) en 1946 à Washington DC, la CBI est créée  sous l’impulsion des Etats-Unis  à l’instar des autres organisations internationales visant à favoriser des forums de discussion et de décisions limitant les conflits directs au profit de rapport de forces diplomatiques. Dans cette dynamique rooseveltienne, les Etats-Unis ont une place prééminente au sein des discussions et influent sur l’agenda de la commission. En l’occurrence la création de la CBI a pour objectif de favoriser la coordination de la reprise de la chasse réglementée de la baleine, notamment au profit du Japon qui fait face à une pénurie de denrée suite à la guerre. En effet le stock de baleines bleues inquiète la communauté scientifique, il est nécessaire de réglementer la chasse pour qu’elle de façon pacifique et relativement durable.
+
+Cette organisation ne fait pas partie de l’ONU et dispose de faibles moyens provenant de la participation financière obligatoire de ses parties prenantes. Elle a les mêmes difficultés que les autres institutions internationales, à savoir le manque de moyens financiers pour fonctionner, l’absence de pouvoir exécutif propre ainsi que les conflits de souveraineté. Ses statuts sont issus de la CIRCB de 1946. Celle-ci énonce un droit international de la chasse à la baleine stipulant de larges prérogatives de préservation des populations de baleines en régulant l’utilisation des ressources baleinières. Les prérogatives de la Commission sont fixées selon l’article V, elle se prononce sur les domaines suivants :
+- Définir les espèces protégées.
+- Définir l’ouverture et la fermeture des saisons de chasse.
+- Définir l’ouverture et la fermeture des zones de chasse en incluant la désignation des sanctuaires.
+- Définir une taille limite pour chaque espèce, la période, les méthodes et l’intensité de la chasse (en incluant le le nombre maximum de prise possible chaque saison).
+- Définir les types et spécificités du matériel pouvant être utilisé.
+- Définir les méthodes de mesure sur proposition du conseil scientifique.
+- Superviser les déclaration de prises de chasse et autres données statistiques et biologiques liées à l’activité baleinière.
+
+D’autre part, même si les pays membres avaient la possibilité de réglementer la conservation des baleines par la majorité qualifiée de trois quarts de tous les membres, conformément à l'article V de la Convention, tout pays membre s’est vu attribué le droit de présenter une objection à une telle décision : “... l’amendement prendra effet à l’égard de tous les Gouvernements contractants qui n’ont présenté aucune objection ; mais il ne prendra effet à l’égard d’un Gouvernement ayant présenté une objection dans les conditions précitées qu’à la date du retrait de ladite objection”. La Convention a donc mis en place un système dans lequel certaines nations, en particulier le Japon et l'Union soviétique, pouvaient opérer au-delà du vote majoritaire. En tant que pays chasseurs et souverain, les parties prenantes laissent une clause qui leur permettent une certaine liberté vis à vis des décisions de la commission. Cela permet de maintenir un forum de discussion entre les nations chasseuses malgré des désaccords ponctuels.
+
+Dans le cadre d’une commission en présence des pays chasseurs, toutes les prérogatives de l’article V sont sous-exploitées par la commission comme le présente J.L. McHugh, ancien commissaire à la commission pour les Etats-Unis. Selon lui, il y aurait une corrélation inverse entre l’importance politique et économique d’une chasse ou d’une pêche et la capacité des délégations nationales à donner la priorité à “l’objectivité” scientifiques dans les décisions. Le terme objectivité est à nuancer, il serait plutôt question de savoir où la délégation met le curseur : la poursuite des intérêts économiques de court-terme ou la préservation des stocks. Ainsi, bien que l'objet à l’origine de la création de la CBI était encore "d'assurer la conservation appropriée des stocks de baleines et permettre ainsi le développement ordonné de l'industrie de la chasse à la baleine", pendant la majeure partie des années 50 et 60, la Commission s’est construit essentiellement comme un forum pour l'industrie baleinière tout en ignorant pratiquement la conservation des baleines. Cette situation a été résumée par J. L. McHugh, ancien président de l’IWC : “Depuis la première réunion en 1949 de la Commission créée sous la CIRCB, jusqu’à la réunion désastreuse de 1964, la quasi-totalité des actions majeures ou des manquements à l'acte étaient régis par des considérations économiques à court terme plutôt que les exigences de la conservation.” En effet, on atteint le pic de 70 000 baleines chassées au début des années 1960 et il faudra ainsi attendre 17 ans, pour que les premiers quotas de réduction de la chasse soient adoptés : 1963.
+
+
+<p>&nbsp; </p>
+<p>&nbsp; </p>
+
+#### c. _La Conférence des Nations Unies sur l'environnement (Stockholm - 1972) et la volonté d’un moratoire de 10 ans sur la chasse à la baleine_
+
+Les années 1970 marquent un changement de paradigme scientifique assez important avec l’émergence de l’écologie comme science indépendante et de la problématique du développement durable. Pour la première fois se pose de manière explicite et assez consensuelle, la nécessité d’une évaluation des ressources de la planète à la suite d’une prise de conscience du caractère fini de ces dernières. Dans le contexte de la publication de Limits to Growth par les nombreux scientifiques du Club de Rome, se mettent en place les sommets de la Terre des Nations Unies dont la première à lieu à Stockholm en 1972 où se pose véritablement la question de la gestion de toutes les ressources. Ainsi, en juin 1972, pendant la Conférence des Nations Unies sur l’environnement (United Nations Conference on the Human Environment (UNCHE)), 110 pays adoptent une résolution visant un moratoire de 10 ans sur la chasse à la baleine de baleines. Les gouvernements se mettent alors d’accord “de renforcer la CBI, d’accroître les efforts de recherche internationaux et, en urgence, d’appeler à un accord international, sous les auspices de la CBI et, en impliquant tous les gouvernements concernés, d’appeler à un moratoire de 10 ans sur la chasse industrielle”. Cependant, les pays chasseurs répondent à ces volontés à la prochaine réunion de la CBI en 1972 en rejetant la résolution de l’UNCHE. Les États-Unis cherchent activement à faire adopter un moratoire et fixer des quotas de façon répétée en 1972 à Stockholm et 1973 à la CBI . Mais les Japon et l’Union Soviétique s’y opposent et empêche d’atteindre la majorité des 3/4. Finalement, le moratoire de 10 ans n’avait donc pas été soumis au vote lors de la réunion de 1974. Cependant, une proposition alternative a été présentée par la délégation Australienne pour la période de 1975-76. Cette alternative est devenue le point focal de la controverse sur l'avenir des baleines et de la CBI elle-même.
 
 
 
