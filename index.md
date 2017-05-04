@@ -18,7 +18,7 @@ VIDEO A METTRE
 <p>&nbsp; </p> 
 <p>&nbsp; </p> 
 
-
+<balise id="ancre1"></balise>
 ## I. Du "club baleinier" à la mise en place d'un moratoire global
 
 
@@ -136,7 +136,7 @@ Baleine francehe de l'Atlantique du Nord</td>
 <p>&nbsp; </p>
 <p>&nbsp; </p>
 
-
+<balise id="ancre2"></balise>
 #### b. La Convention internationale pour la réglementation de la chasse  à la baleine (1946) et la création de la Convention Baleinière Internationale (CBI)
 
 <p align="justify">L’activité de l’industrie baleinière a été réduite durant de la seconde guerre mondiale. Cependant, vers la fin de la guerre, un certain nombre de pays commencent à se poser la question de l'avenir de la chasse à la baleine. En effet, au sortir de la Seconde Guerre Mondiale, lors de la Convention Internationale pour la Réglementation de la Chasse à la Baleine (CIRCB) en 1946 à Washington DC, la CBI est créée  sous l’impulsion des Etats-Unis  à l’instar des autres organisations internationales visant à favoriser des forums de discussion et de décisions limitant les conflits directs au profit de rapport de forces diplomatiques. Dans cette dynamique rooseveltienne, les Etats-Unis ont une place prééminente au sein des discussions et influent sur l’agenda de la commission. En l’occurrence la création de la CBI a pour objectif de favoriser la coordination de la reprise de la chasse réglementée de la baleine, notamment au profit du Japon qui fait face à une pénurie de denrée suite à la guerre. En effet le stock de baleines bleues inquiète la communauté scientifique, il est nécessaire de réglementer la chasse pour qu’elle de façon pacifique et relativement durable</p>
@@ -168,6 +168,7 @@ Baleine francehe de l'Atlantique du Nord</td>
 
 <p>&nbsp; </p>
 
+<balise id="ancre3"></balise>
 #### d. La Conférence internationale pour la réglementation de la chasse à la baleine (1975)
 
 <p align="justify">En amont de la Conférence internationale de 1975, les groupes environnementaux gagnent en importance et commencent à se faire entendre au regard de la CBI. Les Amis de la Terre, l’une de ces organisations, fondée en 1969, publie Not Man Apart dans lequel elle critique l’amendement australien. Le propos de J. Clark, A. King et J. Burton est : “Sauver les baleines: Abolir la CBI.”. Le milieu des années 70 marque ainsi le rôle croissant des organisations environnementales qui se construisent en opposition à la CBI et prennent en main la protection des baleines.</p>
@@ -192,7 +193,6 @@ Cependant, lors de l’application du New Management Procedure à la fin des ann
 
 <p>&nbsp; </p>
 
-<balise id="ancre"> -- </balise>
 
 ## II. L'introduction du moratoire : un repositionnement des acteurs 
 
@@ -266,7 +266,9 @@ La Commission a en outre voté en 2016 une résolution permettant de mieux encad
 <p align="justify">Ainsi, par ses programmes scientifiques de grande ampleur, le Japon s’inscrit dans une position ambigüe qu’il a parfois du mal à justifier. Le motif principal de ces programmes semble être de rassembler assez de données scientifiques pour peut-être convaincre la CBI que le moratoire de 1982 n’a plus lieu d’être. Il faut tout de même rappeler le poids des lobbys de l’industrie baleinière dans cette démarche.</p>
 
 <p align="justify">Finalement, les permis de chasse à des fins scientifiques ont pu être voulus par des réels défenseurs de la régulation de la chasse à la baleine. Ils y ont vu un moyen de cesser les massacres de populations de baleines, de mieux gérer les stocks à l’avenir et de chasser d’une manière plus harmonieuse en fonctions des connaissances scientifiques. Ils ont pu néanmoins être détournés lorsque des fins commerciales prévalaient comme l’a révélé l’affaire traduite en justice en 2014 (Australia v. Japan: New Zealand intervening).</p>
+<p>&nbsp; </p>
 
+<balise id="ancre4"></balise>
 ### C. Un déplacement de la problématisation, 1986-2007 du RMP au RMS : redistribution des acteurs
 
 <p align="justify">A la suite du moratoire adopté en 1986, la CBI est marquée par des conflits internes entre pays producteurs et pays chasseurs, qui ne se reconnaissent pas dans la logique de présercation. Cet affrontement entre les discours de conservation et de chasse débouche sur une nouvelle position de certains pays chasseurs qui adoptent un modèle de chasse durable. Parmi ces pays on trouve les Îles Féroé, la Norvège, l’Islande et le Groenland, qui, en mars 1992, signent l’accord sur l’organisation pour la conservation des mammifères marins de l’Atlantique Nord ([NAMMCO](http://controverses.github.io/conservation-des-baleines/Nammco_Entretien). Ces pays s’engagent dans le maintien d’une chasse dans le respect de l'écosystème, proposant ainsi leur propre vision de l’objectif initial posé par la CBI. La création d’une organisation indépendante leur permet de s’affranchir des pays aux avis divergents, qui bloquent leurs actions au sein de la CBI, et de réaliser leurs propres études scientifiques indépendantes (cf. Annexe 1, interview de Geneviève Desportes).</p>
@@ -291,6 +293,7 @@ A cela s’ajoute des incertitudes scientifiques inhérentes au processus de com
 <p>&nbsp; </p>
 <p>&nbsp; </p>
 
+<balise id="ancre5"></balise>
 ## III. Après l'échec du RMS, un essouflement de la controverse ? 
 
 ### A. La baisse d'intensité de la controverse : les évolutions sociales 
