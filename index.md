@@ -417,7 +417,9 @@ De plus, quand la question de la chasse ou de la préservation des baleines glis
 <p>&nbsp; </p>
 <p>&nbsp; </p>
 
-<p align="center" style="font-text:bold">Gabriella Baert, Alina Koschmieder, Loïs Mallet, Maylis Mouline, Marie Waniowsky  
+<p align="center" style="font-text:bold">Gabriella Baert, Alina Koschmieder, Loïs Mallet, Maylis Mouline, Marie Waniowsky
+
 Sciences Po Paris - Sorbonne Université (Université Pierre et Marie Curie)  
+
 2017 - Cartographie de la Controverse</p>
 
