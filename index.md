@@ -15,7 +15,8 @@
    **Comment la controverse autour de la conservation de la baleine, née d’une urgence pointée par les scientifiques, s’est-elle cristallisée dans la question de la chasse et a finalement abouti à la mise en avant d’arguments éthiques de conservation?**
    
 VIDEO A METTRE
-
+<p>&nbsp; </p> 
+<p>&nbsp; </p> 
 
 
 ## I. Du "club baleinier" à la mise en place d'un moratoire global
@@ -33,17 +34,105 @@ VIDEO A METTRE
    Si le Bureau observe alors une augmentation des captures annuelles de 7.271 baleines en 1923 - 1924 à 46.038 baleines juste avant la deuxième guerre mondiale, il remarque également une recomposition des captures suite au déclin de certaines espèces baleinières : parmi les baleines chassées, on passe alors d’une majorité de Baleines bleues en 1931 à une majorité de Rorquals communs en 1936.
 <p>&nbsp; </p>
 
- <span style="color: #fb4141">###ZOOM sur la méthode de chasse
+<span style="color: #fb4141">Zoom sur les méthodes de chasse</span>
 <table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
 <thead>
-Zoom sur la méthode de chasse
 <tr>
+<th>
+L’origine, les types de baleines chassées étaient les baleines grasses comme la baleine à frange car elles se déplacent lentement et leurs cadavres flottent à la surface, mais les rorquals par exemple n’étaient pas prédatés par les Hommes car ils étaient trop rapides pour les pêcheurs et coulaient dès qu’ils mourraient. Ils fallaient un nombre considérable de pêcheurs associés pour s’attaquer à une baleine, ceux-ci s’alliaient parfois le temps de la chasse puis se répartissaient le butin. La chasse était réalisée avec des harpons et des gros filets de pêche. Un moyen de se répartir les fruits de la chasse de manière équitable consistait à compter le nombre de harpons appartenants à notre tribu ou à notre compagnie retrouvés dans le corps de l’animal mort. La chasse moderne est une évolution d’abord norvégienne et finlandaise du premier type de chasse due à l’épuisement des stocks des baleines « chassables ». Il devient alors nécessaire de trouver le moyen de chasser les rorquals et autres espèces plus rapide ou dont les cadavres ne flottent pas pour poursuivre l’activité baleinière. Avec les évolutions techniques du XIXème siècle, c’est la naissance de la méthode toujours perfectionnée aujourd’hui du norvégien Svend Foyn (1809-1894). Des bateaux sont spécialement conçus pour la chasse à la baleine et aux gros cétacés, ils sont alimentés par la vapeur d’abord (ensuite ce sera le diesel) et comportent un canon à harpon fixé à la proue du bateau. Les harpons sont couplés à une grenade qui explose à l’intérieur de l’animal et à une corde permettant de ramener le corps de l’animal avant que celui-ci ne coule.</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+<p>&nbsp; </p> 
+<p>&nbsp; </p> 
 
 
-<th>l’origine, les types de baleines chassées étaient les baleines grasses comme la baleine à frange car elles se déplacent lentement et leurs cadavres flottent à la surface, mais les rorquals par exemple n’étaient pas prédatés par les Hommes car ils étaient trop rapides pour les pêcheurs et coulaient dès qu’ils mourraient. Ils fallaient un nombre considérable de pêcheurs associés pour s’attaquer à une baleine, ceux-ci s’alliaient parfois le temps de la chasse puis se répartissaient le butin. La chasse était réalisée avec des harpons et des gros filets de pêche. Un moyen de se répartir les fruits de la chasse de manière équitable consistait à compter le nombre de harpons appartenants à notre tribu ou à notre compagnie retrouvés dans le corps de l’animal mort. La chasse moderne est une évolution d’abord norvégienne et finlandaise du premier type de chasse due à l’épuisement des stocks des baleines « chassables ». Il devient alors nécessaire de trouver le moyen de chasser les rorquals et autres espèces plus rapide ou dont les cadavres ne flottent pas pour poursuivre l’activité baleinière. Avec les évolutions techniques du XIXème siècle, c’est la naissance de la méthode toujours perfectionnée aujourd’hui du norvégien Svend Foyn (1809-1894). Des bateaux sont spécialement conçus pour la chasse à la baleine et aux gros cétacés, ils sont alimentés par la vapeur d’abord (ensuite ce sera le diesel) et comportent un canon à harpon fixé à la proue du bateau. Les harpons sont couplés à une grenade qui explose à l’intérieur de l’animal et à une corde permettant de ramener le corps de l’animal avant que celui-ci ne coule.</span></th>
+
+En 1930, le Conseil de la Société des Nations pour l’exploration des mers donne au bureau officiellement le rôle central pour la collecte de toute données et encourage alors les pays à lui soumettre leurs informations de chasse.
+  
+  
+Les cétologues forment alors une “communauté épistémique” - "_Ces amalgames d'arrangements et de mécanismes ... qui, dans un domaine donné, composent comment nous savons ce que nous savons_” ; “_Réseaux de professionnels ayant une expertise et une compétence reconnues dans un domaine particulier qui peuvent faire valoir un savoir pertinent sur les politiques publiques du domaine en question_” - avec une influence politique basée sur des prétentions à l'expertise scientifique. Il s’agit d’un groupe scientifique cohérent, avec des préférences politiques partagées, qui cherchent majoritairement à imposer des restrictions importantes à tous les types de chasse à la baleine lorsque les stocks semblent manquer de protection pour garantir leur pérennité. Ils véhiculent une approche commune de conservation et un ensemble de principes et de croyances partagées qui découlent de leurs études biologiques. Cependant, ces croyances changent au cours du temps, au rythme des avancées de la recherche. Ils ont une façon de travailler conforme au modèle de progrès scientifique d’Imre Lakatos. D’après Lakatos, plusieurs programmes de recherche coexistent, chacun ayant un noyau dur de théories immunisées contre la révision, entouré d'une ceinture protectrice de théories malléables. Les programmes de recherches partagent un modèle dominant mais cherchent constamment à en expérimenter d’autres pour dépasser le précédent. Lorsqu’un modèle semble plus performant que celui dominant pour l’ensemble de la communauté scientifique, il remplace le précédent.
+ 
+
+Dès le début, les cétologues sont orientés vers une coopération plus transnationale que les gestionnaires de l'industrie selon une longue tradition de coopération mondiale des scientifiques. Leurs liens se sont développés notamment à travers le Congrès International des Unions Scientifiques et des organisations disciplinaires transnationales. Ainsi, la publication ouverte et les conférences internationales sont par exemple des éléments importants de la vie scientifique des cétologues. Enfin, les échanges entre cétologues ont également étaient facilités par leur nombre restreint (en 1972 il y a seulement 30 cétologues à temps plein dans le monde). Dans les années 1950, la communauté des cétologues souffre de conflits internes.  En effet, jusqu'à la fin des années 1950, les modèles développés manquent de consensus au sein de la communauté scientifique. L’échec des recherches était en partie causé par un manque de moyens financiers. La CBI elle-même ne disposait pas des fonds nécessaires pour subventionner des recherches. De plus, certains gouvernements non seulement s'opposaient au financement des recherches, mais tardaient à apporter les données de captures demandées, qu’ils fournissaient parfois incomplètes. Au cours de ces années, aucun modèle adapté pour produire des estimations quantifiables des seuils de captures possibles n’a fait ses preuves. , ne permettant pas de convaincre ni les régulateurs ni les chasseurs de baleines.
 
 
+A la fin des années 50, les biologistes halieutiques viennent compléter le savoir scientifiques des cétologues avec de nouveaux modèles mathématiques plus sophistiqués. La volonté commune de préserver les espèces de baleines permet encore une certaine cohérence de la communauté scientifique élargie. Cependant, ultérieurement, un nouvel élargissement de la communauté avec les biologistes marins conduit à l'élaboration de nouveaux modèles qui provoquent des divisions importantes dans la communauté cétologue. Certains adoptent de nouveaux modèles comme ceux sur les écosystèmes tandis que d’autres restent sceptiques, le consensus est alors perdu. Certains cétologues dérivent alors de leurs principes d’origine - la préservation - et adoptent une attitude plus conservatrice visant, plutôt qu'à restreindre la chasse à la baleine, à l’interdire.
 
+
+<p>&nbsp; </p>
+
+<span style="color: #fb4141">Zoom sur l'économie de la baleine</span>
+</span>
+<table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
+<thead>
+<tr>
+<th>
+Dans le domaine de la bioéconomie, Colin Clark s’essaye à apporter la preuve que l’économie du libre marché prédestine les baleines à disparaître.
+Démonstration : Si on a 150 000 baleines bleues, on en réduit le stock à 75  000, on obtiendrait 10 000$ par capture donc une réglementation soutenable serait de 2000 prises par an soit 20 millions de dollar par an. Maintenant proposons de tout pêcher d’un coup :  75 000 (en négligeant l’élasticité de la demande et en occultant l’irréalisme d’une telle chasse), le gain est de 750 millions. En réinvestissant les bénéfices avec seulement un rendement de 5%, les intérêts sont de 37.5 millions par an soit plus que 20 millions par an pour une chasse soutenable. Par conséquent, l’extermination de la baleine bleue apparaît constituer une politique économique considérablement plus rentable qu’une politique de préservation.
+</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+
+<p>&nbsp; </p>
+<p>&nbsp; </p>
+
+
+### B. Des organes internationaux au coeur des stratégies géopolitiques
+
+
+#### a. La Convention internationale pour la réglementation de la chasse à la baleine (1931)
+
+
+Le premier accord réglementaire international est signé à Genève par 22 nations en 1931. Il s’agit de la Convention pour la réglementation de la chasse à la baleine, que deux nations chasseurs majeures, l'Allemagne et le Japon, ne signent cependant pas.
+
+
+Bien que la convention pour la réglementation de la chasse baleinière ne produise pas de véritable mécanisme de contrôle pour la chasse, elle reconnaît dès ses débuts la chasse aborigène de subsistance. Cependant, au cours des années 1930, les premières baleines obtiennent le statut d’espèce protégée dont la baleine boréale en 1931, puis la baleine franche australe, la baleine franche de l’Atlantique du Nord en 1935 et la baleine grise en 1937.
+
+
+<table border="1" cellspacing="1" cellpadding="1" width="70%" align="center"><colgroup span="4" > </colgroup>
+<thead>
+Protection des baleines
+<tr>
+<th>année</th>
+<th>baleine protégée</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1931</td>
+<td>Baleine boréale</td>
+</tr>
+<tr>
+<td>1935</td>
+<td>Baleine franche australe  
+Baleine francehe de l'Atlantique du Nord</td>
+</tr>
+<tr>
+<td>1937</td>
+<td>Baleine grise</td>
+<tr>
+<td>1964</td>
+<td>Baleine à bosse dans l'hémisphère sud</td>
+</tr>
+<tr>
+<td>1967</td>
+<td>Baleine bleue dans l'hémisphère sud</td>
+</tr>
+<tr>
+<td>1979</td>
+<td>Rorqual boréal (quelques exceptions)</td>
+</tr>
+
+<tr>
+<td>1981</td>
+<td>Grand Cachalot (quelques exceptions</td>
+</tr>
+</tbody>
+</table>
 
 
 
