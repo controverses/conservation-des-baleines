@@ -35,7 +35,7 @@
 
 <table border="1" cellspacing="1" cellpadding="1" width="50%" align="center"><colgroup span="4" > </colgroup>
 <thead>
-<span style="color: #3333cc; font-text:bolder">Zoom sur les méthodes de chasse</span>
+<span style="color: #3333cc; font-text:bolder" size="20pt" align="center">Zoom sur les méthodes de chasse</span>
 
 <tr>
 <th>
