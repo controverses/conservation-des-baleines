@@ -189,8 +189,13 @@ Cependant, lors de l’application du New Management Procedure à la fin des ann
 Ces décisions reflètent ainsi l’émergence d’une conscience de la nécessité de conservation qui était absente auparavant au sein de la communauté internationale. Cependant, elle ne marque pas la fin d’un débat. Fortement critiquée par le Japon - car la décision demande des fortes coupures dans la production de viande de baleines et donc des pertes économiques importantes - la décision reste discutée également par les organisations environnementales qui soulignent l’effet tout de même limité de cette décision sur la protection des baleines.
 
 ![InfluenceNetwork1975-90](http://controverses.github.io/conservation-des-baleines/Photo/ImagesSTS/Influence_networks_1975-90.jpg "carte du réseau d'influence baleinier en 1975-90")
+<p>&nbsp; </p>
+<p>&nbsp; </p>
 
-## L'introduction du moratoire : un repositionnement des acteurs
+
+<balise id="ancre">
+## L'introduction du moratoire : un repositionnement des acteurs 
+</balise>
 
 ### L'introduction du moratoire conditionné
 
