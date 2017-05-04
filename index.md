@@ -179,7 +179,7 @@ Baleine francehe de l'Atlantique du Nord</td>
 
 <p align="justify">D’après Les Amis de la Terre, la CBI a déjà essayé d’améliorer sa structure dans le passé (par l'abolition du groupe pour la Baleine Bleue par exemple) mais en vérité, la CBI se trouve limité par sa propre constitution - une constitution qui vise la protection des intérêts des chasseurs et les baleines en même temps, sauf que les chasseurs ont un bien plus grand pouvoir d’influence que les baleines - et ainsi, la CBI semble avoir basculé sur le côté des chasseurs car la peur était trop grande que les nations chasseurs quittent la CBI et continuent la chasse en dehors de toute régulation.</p>
 
-<p align="justify">D’autre part l’International Union for Conservation of Nature (IUCN) déclare que la chasse à la baleine commerciale n’est plus envisageable pour des raisons scientifiques, écologiques et éthiques. La Convention des Nations Unies sur le Droit de la Mer de 1973 voit dans son article 65 une mention explicite de l’autorité référente qu’est la CBI pour toutes les nations, membre ou non de la commission. En tant qu’autorité référente, la nécessité d’appliquer ses décisions est affirmée dans cet article, sauf si les choix individuels sont plus ambitieux.
+<p align="justify">D’autre part l’International Union for Conservation of Nature (IUCN) déclare que la chasse à la baleine commerciale n’est plus envisageable pour des raisons scientifiques, écologiques et éthiques. La Convention des Nations Unies sur le Droit de la Mer de 1973 voit dans son article 65 une mention explicite de l’autorité référente qu’est la CBI pour toutes les nations, membre ou non de la commission. En tant qu’autorité référente, la nécessité d’appliquer ses décisions est affirmée dans cet article, sauf si les choix individuels sont plus ambitieux.</p>
 
 <p align="justify">En conséquence, la commission se voit contrainte de réévaluer sa politique, en faisant un pas vers l’opinion publique grâce à l’introduction d’un programme de protection des baleines qui établit pour la première fois des quotas de chasse pour l’ensemble des océans au sein d’une nouvelle procédure de gestion (New Management Procédure) en 1975. De plus, elles réalisent de profonds changements structuraux destinés à renforcer l’autorité du secrétariat afin d’assumer sa position centrale.</p>
 
@@ -189,6 +189,7 @@ Cependant, lors de l’application du New Management Procedure à la fin des ann
 <p align="justify">Ces décisions reflètent ainsi l’émergence d’une conscience de la nécessité de conservation qui était absente auparavant au sein de la communauté internationale. Cependant, elle ne marque pas la fin d’un débat. Fortement critiquée par le Japon - car la décision demande des fortes coupures dans la production de viande de baleines et donc des pertes économiques importantes - la décision reste discutée également par les organisations environnementales qui soulignent l’effet tout de même limité de cette décision sur la protection des baleines.</p>
 
 ![InfluenceNetwork1975-90](http://controverses.github.io/conservation-des-baleines/Photo/ImagesSTS/Influence_networks_1975-90.jpg "carte du réseau d'influence baleinier en 1975-90")
+
 <p>&nbsp; </p>
 
 <balise id="ancre"> -- </balise>
