@@ -8,9 +8,9 @@
 
 - Kalland, Arne, et Brian Moeran. _Japanese Whaling?: End of an Era._ Reprint edition. Place of publication not identified: Routledge, 2013.
 
-- Knorr Cetina, Karin. _Epistemic Cultures_ — Karin Knorr Cetina | Harvard University Press ». 
+- Knorr Cetina, Karin. _Epistemic Cultures_. Harvard University Press. 
 
-- Paine, Robert T. _Whales, Interaction Webs, and Zero-Sum Ecology_. In Whales, Whaling, and Ocean Ecosystems, édité par James Estes, 6‑13. University of California Press, 2007.http://california.universitypressscholarship.com/view/10.1525/california/9780520248847.001.0001/upso-9780520248847-chapter-2. 
+- Paine, Robert T. _Whales, Interaction Webs, and Zero-Sum Ecology_. In Whales, Whaling, and Ocean Ecosystems, édité par James Estes, 6‑13. University of California Press, 2007. [http://california.universitypressscholarship.com/view/10.1525/california/9780520248847.001.0001/upso-9780520248847-chapter-2]
 
 - Sands, Philippe, et Jacqueline Peel. _Principles of International Environmental Law._ Cambridge University Press, 2012. pp. 428-429.
 
@@ -49,7 +49,7 @@
 
 #### b. Publications en ligne
 
-- Black, Richard. « BBC NEWS | Science/Nature | Under the skin of whaling science ». Consulté le 3 mai 2017. http://news.bbc.co.uk/2/hi/science/nature/6667907.stm 
+- Black, Richard. « BBC NEWS - Science/Nature - Under the skin of whaling science ». Consulté le 3 mai 2017. http://news.bbc.co.uk/2/hi/science/nature/6667907.stm 
 
 - Clapham, Phillip J., Per Berggren, Simon Childerhouse, Nancy A. Friday, Toshio Kasuya, Laurence Kell, Karl-Hermann Kock, et al. « Whaling as Science ». BioScience 53, no 3 (1 mars 2003): 210‑12.
 
@@ -66,7 +66,7 @@
 - Haas, Peter. « Epistemic communities and international policy coordination ».  International Organization, Vol. 46, No. 1, Knowledge, Power, and International Policy Consulté le 3 mai 2017. 
 https://www.unc.edu/~fbaum/teaching/articles/IO-1992-Haas.pdf. 
 
-- « IWC | Archive ». Consulté le 3 mai 2017. https://archive.iwc.int/pages/download_progress.php?ref=6373&ext=pdf&k=&alternative=2973&search=%21collection72&offset=0&archive=0&sort=DESC&order_by=relevance. 
+- « IWC - Archive ». Consulté le 3 mai 2017. https://archive.iwc.int/pages/download_progress.php?ref=6373&ext=pdf&k=&alternative=2973&search=%21collection72&offset=0&archive=0&sort=DESC&order_by=relevance. 
 
 - Lafon, Cathy. « Bonne nouvelle pour la planète: la baleine à bosse recommence à rouler sa bosse! » Sud Ouest (blogues), 19 février 2017. https://nouveau-europresse-com.acces-distant.sciences-po.fr/Link/politique2T_1/news·20170219·SOF·005.
 
@@ -89,7 +89,7 @@ https://www.unc.edu/~fbaum/teaching/articles/IO-1992-Haas.pdf.
 - United Nations. « Report of the United Nations Conference on the Human Environment », 5-16 juin 1972, Stockholm.
 	http://www.un-documents.net/aconf48-14r1.pdf 
 
-- Whittington, Kate. « The Japanese Whaling Controversy – a Collision of Science, Commerce, and Culture | Eyes on Environment | Learn Science at Scitable », 2 Juillet 2013. Consulté le 3 mai 2017. https://www.nature.com/scitable/blog/eyes-on-environment/the_japanese_whaling_controversy_8211 
+- Whittington, Kate. « The Japanese Whaling Controversy – a Collision of Science, Commerce, and Culture - Eyes on Environment - Learn Science at Scitable », 2 Juillet 2013. Consulté le 3 mai 2017. https://www.nature.com/scitable/blog/eyes-on-environment/the_japanese_whaling_controversy_8211 
 
 - Y. S. Hodgson, Jay. « A trophic cascade synthesis: review of top-down mechanisms regulating lake ecosystems », s. d. http://www.wvuforestry.com/tPetty/Limnology_Hodgson2005.pdf.
 
@@ -116,12 +116,12 @@ https://www.unc.edu/~fbaum/teaching/articles/IO-1992-Haas.pdf.
 
 - « iucnredlist », s. d. http://www.iucnredlist.org. 
 
-- « La migration | Baleines en direct ». baleinesendirect. Consulté le 19 février 2017. http://baleinesendirect.org/les-baleines-du-saint-laurent/vie-et-evolution/migration/. 
+- « La migration - Baleines en direct ». baleinesendirect. Consulté le 19 février 2017. http://baleinesendirect.org/les-baleines-du-saint-laurent/vie-et-evolution/migration/. 
 
 - « Le Japon sommé d’arrêter la chasse à la baleine dans l’Antarctique ». Le Monde.fr, 31 mars 2014. 
 http://www.lemonde.fr/japon/article/2014/03/31/le-japon-somme-d-arreter-la-chasse-a-la-baleine-dans-l-antarctique_4392902_1492975.html
 
-- « Les collisions avec les navires | Baleines en direct ». Consulté le 19 février 2017. http://baleinesendirect.org/des-baleines-en-peril/menaces/collisions-avec-les-navires/. 
+- « Les collisions avec les navires - Baleines en direct ». Consulté le 19 février 2017. http://baleinesendirect.org/des-baleines-en-peril/menaces/collisions-avec-les-navires/. 
 
 - « L’importance de la baleine dans l’écosystème marin », Observatoire des cétacés en Polynésie française ». Consulté le 23 février 2017. http://observatoirepolynesie.org/cetaces/limportance-de-la-baleine-dans-lecosysteme-marin/ 
 
