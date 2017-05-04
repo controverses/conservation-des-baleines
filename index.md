@@ -2,7 +2,7 @@
 
 <p>&nbsp; </p> 
 
-![ActeursCBI](http://controverses.github.io/conservation-des-baleines/Photo/ImagesSTS/ActeursCBI.jpeg/ "Un meeting comme un autre à la Commission Baleinière Internationale")
+![ActeursCBI](http://controverses.github.io/conservation-des-baleines/Photo/ImagesSTS/ActeursCBI.jpeg "Un meeting comme un autre à la Commission Baleinière Internationale")
 
 <p>&nbsp; </p> 
 
