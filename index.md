@@ -194,7 +194,9 @@ Ces décisions reflètent ainsi l’émergence d’une conscience de la nécessi
 
 
 <balise id="ancre"> -- </balise>
-## L'introduction du moratoire : un repositionnement des acteurs 
+<p>&nbsp; </p>
+
+## II. L'introduction du moratoire : un repositionnement des acteurs 
 
 ### L'introduction du moratoire conditionné
 
