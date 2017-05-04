@@ -83,7 +83,7 @@ Démonstration : Si on a 150 000 baleines bleues, on en réduit le stock à 75  
 ### B. Des organes internationaux au coeur des stratégies géopolitiques
 
 
-#### a. La Convention internationale pour la réglementation de la chasse à la baleine (1931)_
+#### a. La Convention internationale pour la réglementation de la chasse à la baleine (1931)
 
 
 <p align="justify">Le premier accord réglementaire international est signé à Genève par 22 nations en 1931. Il s’agit de la Convention pour la réglementation de la chasse à la baleine, que deux nations chasseurs majeures, l'Allemagne et le Japon, ne signent cependant pas</p>
@@ -113,6 +113,7 @@ Baleine francehe de l'Atlantique du Nord</td>
 <tr>
 <td>1937</td>
 <td>Baleine grise</td>
+</tr>
 <tr>
 <td>1964</td>
 <td>Baleine à bosse dans l'hémisphère sud</td>
@@ -125,7 +126,6 @@ Baleine francehe de l'Atlantique du Nord</td>
 <td>1979</td>
 <td>Rorqual boréal (quelques exceptions)</td>
 </tr>
-
 <tr>
 <td>1981</td>
 <td>Grand Cachalot (quelques exceptions</td>
@@ -403,27 +403,4 @@ Si le problème global est adressé de manière locale c’est précisément par
 De plus, quand la question de la chasse ou de la préservation des baleines glisse du champ scientifique aux considérations des droits de l’animal en lui-même, les différences culturelles deviennent prégnantes. Le débat se voulant davantage politique, la culture et les traditions sont souvent mises en scène et instrumentalisées pour servir d’argument dans les rapports de forces diplomatiques, même si quelques fois elles ne correspondent plus à la réalité actuelle. Ce type de cheap argument, au sens où cela ne coûte presque rien de le mobiliser, est régulièrement utilisé par les politiques et scientifiques japonais ou norvégiens.</p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>&nbsp; </p>
-<p>&nbsp; </p>
-
-
-
-
-
-![baleine](http://whalesunderwater.com/wp-content/uploads/2015/11/whales-underwater-darrenjew-whale-02a.jpg)
-
-<iframe width="620" height="315" src="https://www.youtube.com/embed/Y46MYZzqaYk" frameborder="0" allowfullscreen></iframe>
 
