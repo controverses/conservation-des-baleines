@@ -284,7 +284,122 @@ La proposition appelée ‘’initiative de Berlin’’, plaçant au cœur des 
 La Commission ne parvient pas à avancer sur le Schéma révisé de gestion des stocks de baleines (RMS), autrement dit la question des quotas de pêche et du suivi des animaux pêchés, qui doit éviter la contrebande de viande de baleine. La Commission ne parvient pas à adopter à une majorité qualifié (¾) pour mettre en place ces dispositifs visant à contrôler la pêche avec les nouveaux quotas. Il y a donc de lourds problèmes structurels qui handicapent la prise de décision. Il est ainsi impossible de trouver un accord, aucune décisions importantes ne peut être prises. Toutes les parties prenantes considèrent le RMS comme un échec ; les uns échouent à lever le moratoire, les autres voient la légitimité de la CBI menacée.  
 A cela s’ajoute des incertitudes scientifiques inhérentes au processus de comptage des baleines. Il est difficile de prendre en compte des menaces autres que la chasse comme la pollution.
 
+<p>&nbsp; </p>
+<p>&nbsp; </p>
 
+## III. Après l'échec du RMS, un essouflement de la controverse ? 
+
+### A. La baisse d'intensité de la controverse : les évolutions sociales 
+
+Aujourd’hui les pays chasseurs voient leur demande en chair de baleine diminuer et de plus en plus d’oppositions de la société civile face aux pratiques de chasse.
+
+En Islande, les pratiques de chasse se trouvent être grandement controversées. Depuis qu'elle a repris cette chasse en 2006 après une interruption de 14 ans, l'Islande fait partie, avec la Norvège, des deux pays qui refusent le moratoire de la CBI sur la chasse à la baleine à des fins commerciales. L’opposition à cette reprise de la chasse a rencontré l'équivalent de plus de deux fois la population islandaise en signatures. Par exemple, lorsque l'Islande a lancé sa saison 2015 de chasse à la baleine, des centaines de milliers d'internautes ont signé une pétition dans l'espoir de faire cesser cette pratique.  
+En outre, la demande pour cette viande est en baisse en Islande comme dans le principal débouché à l'export, le Japon, où elle a une image de moins en moins bonne auprès des consommateurs.
+
+En effet, au Japon, sous couvert de recherche scientifique, le pays alimente une demande intérieure et la chair de baleine se retrouve dans les restaurants et les poissonneries. Le Japon est notamment pointé du doigt car ses méthodes de pêche sont jugées non conformes. La plupart des critiques négatives que rencontre le programme scientifique de chasse à la baleine sont l'absence d’hypothèses testables et falsifiables. Il existe donc une grande controverse autour de la pertinence de la chasse scientifique livrée par le Japon. Le pays a ainsi souvent été accusé de violer le droit international.  
+Il est difficile d’expliquer pourquoi le Japon continue la chasse face à la forte opposition internationale. Quand le Japon défend son droit de chasser, il cite systématiquement son droit à poursuivre ses traditions culturelles, présentant la chasse à la baleine comme une tradition vieille de plus de quatre siècles. Il dénonce ainsi l’impérialisme de l’Occident qui chercherait à leur imposer un point de vue unique et gommer leurs particularités culturelles.
+
+<p>&nbsp; </p>
+
+<span style="color: #fb4141">ZOOM sur l'argumentaire japonais : les traditions des chasse </span>
+<table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
+<thead>
+<tr>
+<th>
+Les japonais se décrivent comme ayant une tradition de la chasse à la baleine surtout liée aux besoins d’après guerres du XXème siècle en terme de nourriture, et déjà consommée par les samouraïs auparavant. Pour eux, il s’agit davantage d’une chasse traditionnelle que de subsistance.
+
+En outre, les japonais critiquent l’hypocrisie des pays européens, tels que la France ou l’Angleterre, qui prétendent avoir toujours considéré la baleine comme un animal sensible qu’il s’agit de respecter. En effet, les documents historiques montrent notamment que la viande de baleine était très appréciée en France au Moyen-âge. La baleine constituait une ressource de choix notamment pour les abbayes et les moines s’associaient aux pêcheurs pour abattre au péril de leur vie un animal d’une telle taille et donc d’une telle valeur. La langue considérait comme le meilleur morceau était tacitement réservé à l’Eglise, l’huile de baleine était une source de combustible formidable pour l’éclairage, les côtes des baleines servaient pour les clôtures des champs dans la région de Biarritz et les vertèbres permettaient à elles seules de confectionner des sièges. Les baleines se vendaient sur les marchés comme celui de Calais ou d’Arras. A Nieuport, en 1163, il existait un tarif de droit payable par les étrangers qui achètent de la baleine. La viande de baleine faisait partie intégrante de la cuisine médiévale et en 1947 on en déguste encore à Londres comme un met de choix.
+</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+
+<p>&nbsp; </p>
+
+Les mentalités japonaise sont cependant en pleines évolutions. Des oppositions internes commencent à voir le jour, et la demande de chair de baleine est en constante diminution.  
+Une enquête sociologique menée par le Nippon Research Center pour l’organisation Greenpeace en 2006 est chargée de collecter des données pour évaluer l’opinion d’un large échantillon de japonais-es - hommes et femmes entre 15 et 59 ans - sur les pratiques scientifiques de pêche à la baleine.  
+L’analyse s’est faite selon l’âge et le genre des enquêté-e-s ainsi que sur leurs avis de reprendre ou non la chasse commerciale à la baleine. On peut alors constituer trois groupes entre les « pro », les « contra », et les « sine opinio ».  
+Comme on peut le voir sur les graphiques ci-dessous, 39% des personnes interrogées ne sont ni pour ni contre la reprise de la chasse à la baleine commerciale, tandis que 35% sont pour et 26% sont contre.
+
+![PieChart](http://controverses.github.io/conservation-des-baleines/Photo/ImagesSTS/Pie_chart_Japon.jpg)
+
+<p>&nbsp; </p>
+
+Il est essentiel de souligner, que les plus jeunes personnes interrogées ont tendance à être plutôt contre. On peut se voir dessiner une frontière générationnelle sur cette question. En outre, parmi les enquêté-e-s qui souhaitent reprendre la chasse à la baleine 67% sont des hommes tandis que 33% sont des femmes, le facteur du genre vient donc également s’inscrire dans la grille d’analyse.
+
+![PieChart](http://controverses.github.io/conservation-des-baleines/Photo/ImagesSTS/EnquêteGP.png "Enquête au Japon sur le rapport de la population à la baleine")
+
+<p>&nbsp; </p>
+
+Dans le graphique ci-dessous, on remarque que 60% des personnes interrogées pensent que la chasse à la baleine fait partie de la culture japonaise, tandis que 20% des autres personnes sondées ne sont pas d’accord. Pour les hommes comme pour les femmes, le nombre de personnes qui pensent que la chasse est une partie de la culture de leur pays tend à augmenter avec l’âge.
+
+
+![PieChart](http://controverses.github.io/conservation-des-baleines/Photo/ImagesSTS/WhalingJaponCulure.png "Enquête au Japon sur le rapport culturel de la population à la baleine")
+
+<p>&nbsp; </p>
+
+Dans cet autre diagramme, on peut voir que 63% des personnes interrogées assurent “ne pas avoir mangé de la chair de baleines depuis un long moment.” Environ une personne interrogée sur cinq n’a d’ailleurs jamais goûté la viande de baleine. Celles et ceux qui n’ont jamais mangé cette chair font majoritairement parti du groupe des plus jeunes. En outre, parmi celles et ceux qui sont pour la reprise de la chasse commerciale, plus de 31% mangent de la baleine quelquefois ou très rarement.
+
+![PieChart](http://controverses.github.io/conservation-des-baleines/Photo/ImagesSTS/WhaleConsumption.png "Enquête au Japon sur la consommation de viande de baleine au Japon")
+
+<p>&nbsp; </p>
+
+Parmi celles et ceux qui soutiennent l’idée de reprendre la chasse à la baleine commerciale, 40% sont âgé-e-s entre 40 et 59 ans, et pensent également que la chasse à la baleine fait partie intégrante de la culture japonaise. Ce sont les plus jeunes qui sont en majorité contre la chasse à la baleine commerciale. Les jeunes hommes et femmes interrogé-e-s pensent majoritairement que la pêche des baleines n’est pas une tradition de leurs pays. Ils en mangent d’ailleurs rarement, si ce n’est jamais, et ne savent généralement pas que la chair de baleine obtenue lors des chasses dites scientifiques est vendue et consommée au Japon. Il existe donc bien un fossé générationnel qui traduit l’évolution des mentalités.
+Plus édifiant encore, les plus jeunes tendent à être en désaccord avec la chasse et le commerce de baleines, ils connaissent cependant assez peu les pratiques de chasse à la baleine du Japon et les accords internationaux qui les régissent. On peut ainsi affirmer que leur désaccord n’est pas nécessairement basé sur des connaissances solides des conditions de la chasse à la baleine mais plutôt sur une prénotion cognitive qui contraint à un respect de la vie des baleines.
+
+Plus édifiant encore, les plus jeunes tendent à être en désaccord avec la chasse et le commerce de baleines, ils connaissent cependant assez peu les pratiques de chasse à la baleine du Japon et les accords internationaux qui les régissent. On peut ainsi affirmer que leur désaccord n’est pas nécessairement basé sur des connaissances solides des conditions de la chasse à la baleine mais plutôt sur une prénotion cognitive qui contraint à un respect de la vie des baleines.
+
+D’autre part, l’évolution de cette controverse autour de la conservation, de la préservation ou de la chasse des baleines, a des conséquences s’inscrivant dans le quotidien de certaines personnes. Ainsi, par exemple l’étude sociologique de Shio Segi publiée en 2003 cherche à comprendre quels sont les contraintes sociales actuelles au Japon aboutissant à la modification des activités d’exploitation de la ressource baleinière. L’étude interroge notamment le fait que, bien que l’économie des régions japonaises pratiquant la chasse par tradition se soit écroulée à la suite du moratoire de la CBI, ces régions ont refusé le développement d’autres activités telles que l’observation des baleines qui auraient pu participer au redressement économique.  
+C’est le cas de la province de Wakayama au Japon, dans la ville de Taiji, ou bien qu’à la suite du moratoire de la CBI le nombre d’artisans baleiniers chute de 200 à 9, les habitants de cette ville considèrent d’un très mauvais oeil l’installation d'observatoires de baleines, qu’ils associent à la venue d’amoureux des baleines allant totalement à l’encontre de leur tradition et menaçant de détruire leur culture. Cependant, si la coexistence des deux activités est impossible au sein de la ville, de nombreuses compagnies proposant l’observation des baleines se sont installées dans les régions voisines. Ainsi, au sein de la province, la chasse et l’observation des baleines coexistent. Cela est rendu possible par la pré-existence et le respect de certains critères garantissant un équilibre entre les positions socio-culturelles. Les entreprises proposant l’observation considère cela comme une “activité halieutique” ayant une motivation purement économique et pas du tout de protection des baleines, l’adoption d’une réglementation prenant en compte les activités des chasseurs, l’installation dans des zones voisines mais différentes et la circulation d’information des observateurs vers les chasseurs leur permettant d’être plus efficaces.  L’étude conclut sur le fait que la mise en place d’un moratoire total nuirait à cette implantation progressive des observatoires dans les régions chasseresses, et à toute transition culturelle, puisque l’équilibre entre les acteurs serait rompu. La qualité de la communication serait très dégradée car les informations transmises par les observateurs aux chasseurs deviendraient inutiles.
+
+Finalement, la chair de baleine est donc de moins en moins consommée dans les principaux pays chasseurs. Au Japon, il y a ainsi une baisse de la consommation de baleine, à peine 1 % des Japonais en mangent régulièrement. Cela s’explique d’une part car la chasse à la baleine est de plus en plus mal perçue par l’opinion publique, et d’autre part car l’activité est fortement diminuée par l’imposition du moratoire. Les études sociologiques montrent qu’aujourd’hui ce moratoire partiel permet de soutenir les évolutions culturelles au sein de la population japonaise, un moratoire total serait contre productif dans l’état culturel actuel du Japon qui quitterait la CBI et fermerait les observatoires.
+
+<p>&nbsp; </p>
+
+### Un changement de cadrage stratégique pour relancer la controverse
+
+Si le RMS a trouvé un consensus scientifique pour légitimer la chasse à la baleine dans la vision d’une chasse commerciale soutenable, il n’a pas trouvé de consensus au sein de la CBI, ni dans la société civile.
+
+Deux développements peuvent alors être identifiés suite à l’initiative échouée du RMS:
+- la mythification de la baleine par les organisations environnementales et des nations s’opposants à la chasse
+- la réorientation des ONG sur des questions autres que la chasse
+
+#### a. La mythification de la baleine
+
+Dans les groupes environnementaux, dont WWF et Greenpeace, et les organisations internationales, particulièrement dans des pays anglophones, il y a eu un recadrage d’un discours écologique de la protection de la baleine pour des raisons biologiques vers un discours sur le bien-être des animaux (animal welfare). Le soutien à la mobilisation anti-chasse continue, mais cette fois sur une base éthique et morale. La baleine constitue un élément facile de mobilisation car l’ennemi, les chasseurs, est facilement identifiable, et la situation semble urgente : il faut agir maintenant et non plus tard certaines espèces de baleines étant déjà menacées d’extinction. Greenpeace a par ailleurs identifié la présence de l’ennemi et l’urgence d’agir comme arguments clés pour collecter de l’argent. L’engagement autour de l’anti-chasse devient alors non seulement un moyen facile de collecter de l'argent pour les ONG environnementales mais aussi un moyen facile pour gouvernements et industries d’obtenir une image “verte”. 
+
+<span style="color: #842FD5">#GREENWASHING</span>
+
+Néanmoins, il faut bien distinguer les différentes organisations environnementales, comme Sea Shepherd Conservation Global et Greenpeace. Sea Shepherd critique lui-même la façon dont Greenpeace manipule la question baleinière pour obtenir des financements.
+Fondée en 1977, Sea Shepherd Conservation Society est une ONG vouée à la protection de la faune et des écosystèmes marins ainsi qu’à la sensibilisation du grand public. Elle est particulièrement engagée dans la lutte contre la chasse à la baleine, mais aussi contre la chasse aux dauphins, aux globicéphales, aux phoques et contre la surpêche.
+(cf. annexe 2 interview Sea Shepherd)
+
+<span style="color: #842FD5">#GREENWASHING</span>
+
+En 2006, le fondateur et président de la branche états-unienne de Sea Shepherd, Paul Watson, publie “_The truth about Greenpeace and Whaling_”. Il y dénonce les pratiques de Greenpeace lorsqu’il écrit : “_Greenpeace affiche et commercialise l'illusion de sauver la planète et elle a une armée de bénévoles crédules et des conseillers payants qui ont été invités à croire que Greenpeace est en train de sauver l'environnement et de sauver les baleines en particulier._” Sea Shepherd reproche effectivement à Greenpeace depuis 2007 de ne pas avoir envoyé un seul navire dans l’océan Austral pour s’opposer aux activités de la flotte japonaise et défendre les baleines, alors que l’ONG dispose des moyens financiers avec un budget d’environ 300 millions d’euros. Il reproche ainsi à Greenpeace de ne pas véritablement défendre les mammifères marins mais de dépenser leur argent en mail promotionnels. Le budget de Sea Shepherd représente environ 2% de celui de Greenpeace, mais pourtant ils envoient leurs bénévoles sur le terrain avec leurs six grands navires actuellement en activité.
+
+Dans “_Whale politics and green legitimacy: A critique of the anti-whaling campaign_”, l’auteur Arne Kalland décrit un monde où les organisations environnementales divisent la société entre celles et ceux qui cherchent à protéger la planète et celles et ceux qui veulent en tirer des profits à court-terme. Les baleines deviennent alors un symbole pour les écologistes. De plus, la chasse baleinière s’inscrit progressivement comme symbole de la vie primitive et la non-chasse comme celui de la civilisation. Déjà en 1991, le ministre de l’agriculture de la Grande-Bretagne, John Gummer, déclara qu’il allait faire de son mieux pour que l'Islande ne quitte pas la CBI afin de garder l'Islande dans le repli des nations civilisées. Dans ce sens, l’idée de la chasse aborigène de subsistance qui semble aujourd'hui sacralisée dans les discours de la CBI, devient un concept dans les mains de l'impérialisme. Si les populations aborigènes obtiennent alors la possibilité d’une chasse de subsistance ils leur est imposé de chasser pour leurs besoins seulement, et non pour des objectifs économiques.
+
+<p>&nbsp; </p>
+
+#### b. La réorientation des organisations environnementales
+
+Les grandes ONG environnementales continuent à promouvoir la protection des baleines. Cependant, alors qu’elles luttaient à l’origine à contre la chasse, elles se sont réorientées sur des sujets tels que le changement climatique, la collision des baleines avec des bateaux et l’entanglement dans leurs filets.  
+Les changements climatiques sont susceptibles de perturber les habitudes migratoires, d’altérer les écosystèmes - donc par la même d’occasionner des variations d’abondance de la nourriture - et de modifier la circulation océanique. Il a par exemple été montré qu’il y a ”une réduction à court terme de 4 à 23% de la productivité du plancton dans les zones affectées par le trou d'ozone” ce qui prive les baleines de leur principale source de nourriture. Les groupes environnementaux craignent ainsi que les espèces de baleines en voie d'extinction puissent disparaître.  
+Les pollutions semblent également affecter les baleines de façon particulièrement grave dans le temps suite à l’accumulation de polluants tels que les PCB (polychlorobiphényles) dans leurs corps. Les PCB, fabriqués depuis 1920, ont été interdit dans plusieurs États depuis les années 1970 ainsi que dans l’ensemble de l’Union Européenne en 1987. Les PCB sont un danger important pour la santé humaine et animale, ils sont cancérigènes, affaiblissent les systèmes immunitaires et réduisent la fertilité. Les PCB atteignent l’écosystème marin par les rivières et atteignent graduellement le haut de la chaîne alimentaire, pour se retrouver dans la graisse des cétacés.  
+D’autres éléments liés à l’intensification de la présence et des activités humaines menacent la vie des baleines, augmentant les cas de collisions avec les bateaux et d'entenglements dans les filets de pêche. En outre, affectant parfois des populations entières de baleines, l’échouage massif ou individuel des cétacés est parfois dû à des perturbations liées aux sonars et à d’autres pollutions acoustiques.  
+Certes la pratique du whale-watching (littéralement, l’observation des baleines) présente la vertu d’une sensibilisation du grand public à la préservation des cétacés (et plus généralement de leur environnement), pour autant ce secteur écotouristique en pleine expansion comporte son lot de dangers pour les baleines lorsqu’elle n’est pas suffisamment encadrée. En effet, des travaux scientifiques ont révélé à maintes reprises que la sur-fréquentation touristique - et la pression sur l’environnement qu’elle génère - perturbe les cétacés (apparition de déficiences auditives; départ des animaux de certains secteurs; phénomènes de changements comportementaux…). Pour lutter contre le whale-watching de mauvaise qualité, des initiatives intéressantes ont été mises en place comme la mise en place de labels (ex: le label High Quality Whale-watching® en Méditerranée). Ils sont associés à une formation et à un suivi permettant de certifier que l’impact causé sur les cétacés lorsqu’ils sont observés est minimisé autant que possible.
+
+<p>&nbsp; </p>
+<p>&nbsp; </p>
+
+
+## CONCLUSION
+
+Finalement, si affirmer que les rapports d’hier façonnent les comportements d’aujourd’hui serait sans doute surestimer le poids de ces traditions ancestrales, il est important de considérer que les constructions idéologiques, culturelles, participant aux débats actuels sont élaborées à partir d’une histoire passée de rapports entretenus entre l’animal objet de la controverse et les différents peuples et sociétés.  
+Si le problème global est adressé de manière locale c’est précisément parce qu’il existe un lien unique entre chaque peuple et la biodiversité qui l’entoure. Cela conduit à des traditions et constructions économiques et culturelles différentes rendant certains peuples plus ou moins connectés à la question que d’autres selon les époques. Les évolutions temporelles des positionnements participent à expliquer la perception de certains acteurs comme moralisateurs voire hypocrites.  
+De plus, quand la question de la chasse ou de la préservation des baleines glisse du champ scientifique aux considérations des droits de l’animal en lui-même, les différences culturelles deviennent prégnantes. Le débat se voulant davantage politique, la culture et les traditions sont souvent mises en scène et instrumentalisées pour servir d’argument dans les rapports de forces diplomatiques, même si quelques fois elles ne correspondent plus à la réalité actuelle. Ce type de cheap argument, au sens où cela ne coûte presque rien de le mobiliser, est régulièrement utilisé par les politiques et scientifiques japonais ou norvégiens.
 
 
 
@@ -301,6 +416,8 @@ A cela s’ajoute des incertitudes scientifiques inhérentes au processus de com
 
 
 
+<p>&nbsp; </p>
+<p>&nbsp; </p>
 
 
 
