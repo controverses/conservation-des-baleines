@@ -409,9 +409,15 @@ Certes la pratique du whale-watching (littéralement, l’observation des balein
 
 ## CONCLUSION
 
-<p align="justify" style="font-text:bold; color: #842FD5">Finalement, si affirmer que les rapports d’hier façonnent les comportements d’aujourd’hui serait sans doute surestimer le poids de ces traditions ancestrales, il est important de considérer que les constructions idéologiques, culturelles, participant aux débats actuels sont élaborées à partir d’une histoire passée de rapports entretenus entre l’animal objet de la controverse et les différents peuples et sociétés.  
+<p align="justify" style="font-text:bold; color: #2929a3">Finalement, si affirmer que les rapports d’hier façonnent les comportements d’aujourd’hui serait sans doute surestimer le poids de ces traditions ancestrales, il est important de considérer que les constructions idéologiques, culturelles, participant aux débats actuels sont élaborées à partir d’une histoire passée de rapports entretenus entre l’animal objet de la controverse et les différents peuples et sociétés.  
 Si le problème global est adressé de manière locale c’est précisément parce qu’il existe un lien unique entre chaque peuple et la biodiversité qui l’entoure. Cela conduit à des traditions et constructions économiques et culturelles différentes rendant certains peuples plus ou moins connectés à la question que d’autres selon les époques. Les évolutions temporelles des positionnements participent à expliquer la perception de certains acteurs comme moralisateurs voire hypocrites.  
 De plus, quand la question de la chasse ou de la préservation des baleines glisse du champ scientifique aux considérations des droits de l’animal en lui-même, les différences culturelles deviennent prégnantes. Le débat se voulant davantage politique, la culture et les traditions sont souvent mises en scène et instrumentalisées pour servir d’argument dans les rapports de forces diplomatiques, même si quelques fois elles ne correspondent plus à la réalité actuelle. Ce type de cheap argument, au sens où cela ne coûte presque rien de le mobiliser, est régulièrement utilisé par les politiques et scientifiques japonais ou norvégiens.</p>
 
+<p>&nbsp; </p>
+<p>&nbsp; </p>
+<p>&nbsp; </p>
 
+<p align="center" style="font-text:bold">Gabriella Baert, Alina Koschmieder, Loïs Mallet, Maylis Mouline, Marie Waniowsky  
+Sciences Po Paris - Sorbonne Université (Université Pierre et Marie Curie)  
+2017 - Cartographie de la Controverse</p>
 
