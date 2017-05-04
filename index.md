@@ -12,7 +12,7 @@
     
     
     
-<p style="text-align:center; color:red; font-weight:bolder">Comment la controverse autour de la conservation de la baleine, née d’une urgence pointée par les scientifiques, s’est-elle cristallisée dans la question de la chasse et a finalement abouti à la mise en avant d’arguments éthiques de préservation?</p>
+<p style="text-align:center; color:#0039e6; font-weight:bolder">Comment la controverse autour de la conservation de la baleine, née d’une urgence pointée par les scientifiques, s’est-elle cristallisée dans la question de la chasse et a finalement abouti à la mise en avant d’arguments éthiques de préservation?</p>
    
 <p>&nbsp; </p> 
 <p>&nbsp; </p> 
