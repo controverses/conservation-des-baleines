@@ -1,3 +1,0 @@
-## Salut
-
-Vive les baleines
