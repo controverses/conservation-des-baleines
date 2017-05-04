@@ -265,7 +265,7 @@ Finalement, les permis de chasse à des fins scientifiques ont pu être voulus p
 
 ### C. Un déplacement de la problématisation, 1986-2007 du RMP au RMS : redistribution des acteurs
 
-A la suite du moratoire adopté en 1986, la CBI est marquée par des conflits internes entre pays producteurs et pays chasseurs, qui ne se reconnaissent pas dans la logique de conservation. Cet affrontement entre les discours de conservation et de chasse débouche sur une nouvelle position de certains pays chasseurs qui adoptent un modèle de chasse durable. Parmi ces pays on trouve les Îles Féroé, la Norvège, l’Islande et le Groenland, qui, en mars 1992, signent l’accord sur l’organisation pour la conservation des mammifères marins de l’Atlantique Nord (NAMMCO). Ces pays s’engagent dans le maintien d’une chasse dans le respect de l'écosystème, proposant ainsi leur propre vision de l’objectif initial posé par la CBI. La création d’une organisation indépendante leur permet de s’affranchir des pays aux avis divergents, qui bloquent leurs actions au sein de la CBI, et de réaliser leurs propres études scientifiques indépendantes (cf. Annexe 1, interview de Geneviève Desportes). 
+A la suite du moratoire adopté en 1986, la CBI est marquée par des conflits internes entre pays producteurs et pays chasseurs, qui ne se reconnaissent pas dans la logique de conservation. Cet affrontement entre les discours de conservation et de chasse débouche sur une nouvelle position de certains pays chasseurs qui adoptent un modèle de chasse durable. Parmi ces pays on trouve les Îles Féroé, la Norvège, l’Islande et le Groenland, qui, en mars 1992, signent l’accord sur l’organisation pour la conservation des mammifères marins de l’Atlantique Nord ([NAMMCO](http://controverses.github.io/conservation-des-baleines/Nammco_Entretien). Ces pays s’engagent dans le maintien d’une chasse dans le respect de l'écosystème, proposant ainsi leur propre vision de l’objectif initial posé par la CBI. La création d’une organisation indépendante leur permet de s’affranchir des pays aux avis divergents, qui bloquent leurs actions au sein de la CBI, et de réaliser leurs propres études scientifiques indépendantes (cf. Annexe 1, interview de Geneviève Desportes). 
 
 En parallèle, après huit ans de travail suivant l’instauration du moratoire en 1986, la Revised Management Procedure (RMP) est adopté par la résolution 1994-5 de la Commission en 1994. La RMP est un logiciel développé par le comité scientifique de la CBI pour estimer les limites de prises pour la pêche commerciale afin de lever à terme le moratoire. Il s’agit de se mettre d’accord sur les critères minimaux d’évaluation des stocks de baleines pour clarifier les discussions et les enjeux. Les pays protecteurs acceptent de lancer ce programme de recherche afin de légitimer le moratoire comme mesure de préservation, en préférant la chasse soutenable à une interdiction définitive de toute chasse. Il est innovant et servira de modèle à d’autres programmes. Ses trois objectifs principaux sont :
 - La stabilisation des quotas.
@@ -373,7 +373,7 @@ Dans les groupes environnementaux, dont WWF et Greenpeace, et les organisations 
 
 Néanmoins, il faut bien distinguer les différentes organisations environnementales, comme Sea Shepherd Conservation Global et Greenpeace. Sea Shepherd critique lui-même la façon dont Greenpeace manipule la question baleinière pour obtenir des financements.
 Fondée en 1977, Sea Shepherd Conservation Society est une ONG vouée à la protection de la faune et des écosystèmes marins ainsi qu’à la sensibilisation du grand public. Elle est particulièrement engagée dans la lutte contre la chasse à la baleine, mais aussi contre la chasse aux dauphins, aux globicéphales, aux phoques et contre la surpêche.
-(cf. annexe 2 interview Sea Shepherd)
+(cf. annexe 2 [interview Sea Shepherd](http://controverses.github.io/conservation-des-baleines/SeaShepherd_Entretien(English))
 
 <span style="color: #842FD5">#GREENWASHING</span>
 
@@ -423,65 +423,7 @@ De plus, quand la question de la chasse ou de la préservation des baleines glis
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/controverses/conservation-des-baleines/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-[Aller vers la page 1](https://controverses.github.io/conservation-des-baleines/page1)
-
 ![baleine](http://whalesunderwater.com/wp-content/uploads/2015/11/whales-underwater-darrenjew-whale-02a.jpg)
 
 <iframe width="620" height="315" src="https://www.youtube.com/embed/Y46MYZzqaYk" frameborder="0" allowfullscreen></iframe>
 
-
-- Il s'agit de comprendre la controverse 
-- Il s'agit d'évaluer les succès des prééminences des problématisations
-- Le markdown fonctionne bien 
-
-
-
-
-
-
-
-
-
-
-
-### Markdown ANNEXE DE CONSTRUCTION
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
