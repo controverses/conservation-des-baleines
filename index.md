@@ -33,6 +33,28 @@
    Si le Bureau observe alors une augmentation des captures annuelles de 7.271 baleines en 1923 - 1924 à 46.038 baleines juste avant la deuxième guerre mondiale, il remarque également une recomposition des captures suite au déclin de certaines espèces baleinières : parmi les baleines chassées, on passe alors d’une majorité de Baleines bleues en 1931 à une majorité de Rorquals communs en 1936.</p>
 <p>&nbsp; </p>
 
+<table border="1" cellspacing="1" cellpadding="1" width="100%" align="left"><colgroup span="4" > </colgroup>
+<thead>
+ZOOM
+<tr>
+<th>Les méthodes de chasse</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p align="justify">L’origine, les types de baleines chassées étaient les baleines grasses comme la baleine à frange car elles se déplacent lentement et leurs cadavres flottent à la surface, mais les rorquals par exemple n’étaient pas prédatés par les Hommes car ils étaient trop rapides pour les pêcheurs et coulaient dès qu’ils mourraient. Ils fallaient un nombre considérable de pêcheurs associés pour s’attaquer à une baleine, ceux-ci s’alliaient parfois le temps de la chasse puis se répartissaient le butin. La chasse était réalisée avec des harpons et des gros filets de pêche. Un moyen de se répartir les fruits de la chasse de manière équitable consistait à compter le nombre de harpons appartenants à notre tribu ou à notre compagnie retrouvés dans le corps de l’animal mort. La chasse moderne est une évolution d’abord norvégienne et finlandaise du premier type de chasse due à l’épuisement des stocks des baleines « chassables ». Il devient alors nécessaire de trouver le moyen de chasser les rorquals et autres espèces plus rapide ou dont les cadavres ne flottent pas pour poursuivre l’activité baleinière. Avec les évolutions techniques du XIXème siècle, c’est la naissance de la méthode toujours perfectionnée aujourd’hui du norvégien Svend Foyn (1809-1894). Des bateaux sont spécialement conçus pour la chasse à la baleine et aux gros cétacés, ils sont alimentés par la vapeur d’abord (ensuite ce sera le diesel) et comportent un canon à harpon fixé à la proue du bateau. Les harpons sont couplés à une grenade qui explose à l’intérieur de l’animal et à une corde permettant de ramener le corps de l’animal avant que celui-ci ne coule.</p></td></tr>
+</tbody>
+</table>
+
+
+
+<p>&nbsp; </p> 
+
+<p>&nbsp; </p> 
+
+<p>&nbsp; </p> 
+
+
 <table border="1" cellspacing="1" cellpadding="1" width="50%" align="center"><colgroup span="4" > </colgroup>
 <thead>
 <span style="color: #3333cc; font-text:bold" size="20pt" align="center">Zoom sur les méthodes de chasse</span>
