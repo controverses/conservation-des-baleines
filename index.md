@@ -249,7 +249,7 @@ La chasse est une entreprise nécessaire mais extrêmement périlleuse qui, dura
 
 <p align="justify">Selon cet article, la responsabilité est laissée aux gouvernements d'établir les conditions (lieu, nombre de prises etc.) des programmes de recherches scientifiques.  Néanmoins, tout pays réclamant mettre en oeuvre un tel programme sous couvert de l’article VIII (ou “Special Permit Whaling”) devra en informer la CBI. De même, les résultats scientifiques récoltés grâce au programme devront être communiqués, au moins tous les ans. La CBI dispose en effet de son propre comité scientifique, qui rassemble les <a href="https://iwc.int/scprogress">données</a> depuis 1986 obtenues lors des différents programmes et les analyse afin de rendre compte de la situation à la CBI.</p>
 
-Le site de la CBI  met à disposition la <a href="iwc.int/table_permit">liste des permis de chasse</a> à des fins scientifiques accordés depuis 1986 à nos jours.
+Le site de la CBI  met à disposition la <a href="https://iwc.int/table_permit">liste des permis de chasse</a> à des fins scientifiques accordés depuis 1986 à nos jours.
 
 <p align="justify">On observe les tendances suivantes :
 - Seuls 4 pays ont recouru au moins une fois à de tels permis : le Japon, la Norvège, l’Islande, et, uniquement en 1986, la République de Corée. Cependant, cette dernière a déclaré lors de la réunion de la Commission en 2012 vouloir reprendre ses programmes de recherches scientifiques.
